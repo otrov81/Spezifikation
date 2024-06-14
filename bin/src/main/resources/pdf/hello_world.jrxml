@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.6.0.final using JasperReports Library version 6.6.0  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="spezi1" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="7c9dd219-f79c-484f-87c1-d1a4f1d0a67b">
+    <property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+    <parameter name="username" class="java.lang.String"/>
+    <parameter name="berechtigung" class="java.lang.Integer"/>
+    <queryString>
+        <![CDATA[]]>
+    </queryString>
+    <field name="userid" class="java.lang.Long"/>
+    <field name="username" class="java.lang.String"/>
+    <background>
+        <band splitType="Stretch"/>
+    </background>
+    <title>
+        <band height="82" splitType="Stretch">
+            <frame>
+                <reportElement mode="Opaque" x="0" y="10" width="560" height="70" backcolor="#409FCF" uuid="256c0735-4cbe-41ad-ba7b-197c6edc3c7a"/>
+                <staticText>
+                    <reportElement mode="Transparent" x="35" y="24" width="145" height="36" forecolor="#FFFFFF" backcolor="#FFFFFF" uuid="a7dfb7b5-1c13-4bd2-a831-078c9d38eb9f"/>
+                    <textElement verticalAlignment="Middle">
+                        <font size="22"/>
+                    </textElement>
+                    <text><![CDATA[spezi report]]></text>
+                </staticText>
+                <textField>
+                    <reportElement x="320" y="10" width="234" height="30" forecolor="#FFFFFF" uuid="d38fa8c7-ade5-44d1-a31f-b22b2f2a0851"/>
+                    <textElement textAlignment="Right">
+                        <font size="11"/>
+                    </textElement>
+                    <textFieldExpression><![CDATA[$P{username} +", "+$P{berechtigung}]]></textFieldExpression>
+                </textField>
+                <textField pattern="M/d/yy h:mm a">
+                    <reportElement x="400" y="40" width="150" height="30" forecolor="#F7302D" uuid="0d654062-795d-4d67-b3b3-db56f0e2e042"/>
+                    <textElement textAlignment="Right">
+                        <font fontName="Algerian"/>
+                    </textElement>
+                    <textFieldExpression><![CDATA[new java.util.Date()]]></textFieldExpression>
+                </textField>
+                <staticText>
+                    <reportElement x="190" y="16" width="120" height="44" uuid="1b7a425f-b2c0-4e6f-9ed7-d7d1ed99ca3b"/>
+                    <box>
+                        <pen lineColor="#F74340"/>
+                    </box>
+                    <textElement>
+                        <font size="10"/>
+                    </textElement>
+                    <text><![CDATA[oll asdkldlölöghfdgjklöahdf gjklhgjklh afklhlg]]></text>
+                </staticText>
+            </frame>
+        </band>
+    </title>
+    <pageHeader>
+        <band height="54" splitType="Stretch">
+            <staticText>
+                <reportElement x="35" y="10" width="515" height="44" uuid="6b13526d-d218-43ef-8b2e-3cb577a46ff7"/>
+                <textElement textAlignment="Center" verticalAlignment="Middle"/>
+                <text><![CDATA[Static Textv<m.vncnv<vn,m<x x<,nv<mvn,mcxy]]></text>
+            </staticText>
+        </band>
+    </pageHeader>
+    <columnHeader>
+        <band height="27" splitType="Stretch">
+            <staticText>
+                <reportElement x="0" y="4" width="100" height="23" uuid="59983d15-0a7f-4e0b-a62a-8e1c2613a2ae"/>
+                <textElement textAlignment="Center" verticalAlignment="Middle">
+                    <font fontName="Blackadder ITC"/>
+                </textElement>
+                <text><![CDATA[ID]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="110" y="4" width="100" height="23" uuid="020b20d9-fc08-4ad9-ad71-478c7ffb3b2c"/>
+                <textElement textAlignment="Center" verticalAlignment="Middle">
+                    <font fontName="Algerian"/>
+                </textElement>
+                <text><![CDATA[Username]]></text>
+            </staticText>
+        </band>
+    </columnHeader>
+    <detail>
+        <band height="23" splitType="Stretch">
+            <textField>
+                <reportElement x="0" y="0" width="100" height="20" uuid="bff76544-64ff-4390-8ccd-acea46673cd0"/>
+                <textFieldExpression><![CDATA[$F{userid}]]></textFieldExpression>
+            </textField>
+            <textField>
+                <reportElement x="110" y="0" width="100" height="20" uuid="5ade25c4-192f-4823-a864-f0fd92cff461"/>
+                <textElement textAlignment="Center"/>
+                <textFieldExpression><![CDATA[$F{username}]]></textFieldExpression>
+            </textField>
+        </band>
+    </detail>
+    <columnFooter>
+        <band height="45" splitType="Stretch"/>
+    </columnFooter>
+    <pageFooter>
+        <band height="73" splitType="Stretch">
+            <staticText>
+                <reportElement x="0" y="0" width="150" height="72" uuid="51a6c08e-d118-4ff8-9658-e05279b5664c"/>
+                <text><![CDATA[Almi GmbH
+Hörschinger Straße 1
+A-4064 Oftering
+T. +43 7221 733 99 0
+F. +43 7221 733 99 8290
+E. office@almi.at]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="180" y="0" width="180" height="72" uuid="07663534-6ee6-4c29-8503-07fcb34093d5"/>
+                <textElement>
+                    <font fontName="Viner Hand ITC"/>
+                </textElement>
+                <text><![CDATA[Standort Wien
+Baumgasse 64
+A-1030 Wien
+T. +43 7221 733 99 460
+F. +43 7221 733 99 8460
+E. office.wien@almi.at]]></text>
+            </staticText>
+            <textField pattern="MMMMM dd, yyyy">
+                <reportElement x="466" y="30" width="100" height="30" uuid="ff7a22b0-ea3b-4803-9499-47bc2b0113aa"/>
+                <textFieldExpression><![CDATA[new java.util.Date()]]></textFieldExpression>
+            </textField>
+        </band>
+    </pageFooter>
+    <summary>
+        <band splitType="Stretch"/>
+    </summary>
+</jasperReport>

@@ -1,0 +1,121 @@
+
+“	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô³n8–ıæ¶2J$6e8ebb14-1075-4be1-b82c-3970e4596c3d
+”	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Á¼ö8–ıæ¶2J$36a0e351-dc5e-4b64-b55f-496a28ef3d5c
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íˆ÷æ8–ıæ¶2J$16f1f344-3494-4148-8ad6-c39f8c40d0eb
+–
+java:S1104""SMake txtMand a static final constant or non-public and provide accessors if needed.(±«ĞÇ8—ıæ¶2J$ecc291b0-7227-48df-8275-9db459c2820a
+™
+java:S1104#"QMake txtSa a static final constant or non-public and provide accessors if needed.(Ğîš®ıÿÿÿÿ8—ıæ¶2J$c0062a0a-4e22-4f89-9d94-8fc7de82a21b
+•
+java:S1104$"RMake txtLdc a static final constant or non-public and provide accessors if needed.(•¬À˜8—ıæ¶2J$3b5b4b84-9460-4251-ae79-1ca9674b4b76
+›
+java:S1104%"SMake txtScpd a static final constant or non-public and provide accessors if needed.(åûÆûÿÿÿÿÿ8—ıæ¶2J$5f6b6a28-cc75-4241-8803-e469ce8b6d0f
+—
+java:S1104&"TMake txtKunde a static final constant or non-public and provide accessors if needed.(ŞîÂ•8—ıæ¶2J$7e76d502-0fff-4fdc-9c35-ef4d21141d94
+™
+java:S1104'"VMake txtArtikel a static final constant or non-public and provide accessors if needed.(¿‚«8—ıæ¶2J$f9d18fe5-e1db-4668-9607-05702ed5f5e0
+œ
+java:S1104("YMake txtSchluessel a static final constant or non-public and provide accessors if needed.(ˆ¿¹€8—ıæ¶2J$8762e302-3b12-42b5-8a90-a579c7f4d99e
+š
+java:S1104)"RMake txtZrn a static final constant or non-public and provide accessors if needed.(³ä¢œıÿÿÿÿ8—ıæ¶2J$94733563-f086-4b65-a250-5c08635c8220
+›
+java:S1104*"SMake tarMemo a static final constant or non-public and provide accessors if needed.(…³ò‹ùÿÿÿÿ8—ıæ¶2J$99cfbd8c-8828-4fc4-bd73-8a606a9cd2f5
+–
+java:S1104+"TMake tarTitel a static final constant or non-public and provide accessors if needed.(ĞÁô98—ıæ¶2J$2886a5ce-5c0e-4f86-920b-488af038f5e3
+•
+java:S1104,"SMake tarText a static final constant or non-public and provide accessors if needed.(ı‘â]8—ıæ¶2J$5d6ca08e-9251-49d0-acc1-8fcef5f5dab4
+Ÿ
+java:S1104-"WMake dropTextart a static final constant or non-public and provide accessors if needed.(Ó¿ÿÏùÿÿÿÿ8—ıæ¶2J$96f61dd9-6d37-41eb-8dce-00393e72f1ff
+Ÿ
+java:S1104/"WMake labAutoname a static final constant or non-public and provide accessors if needed.(Ïå†ÿÿÿÿÿ8—ıæ¶2J$6071de03-b392-43db-b052-526b1300e67c
+–
+java:S11040"SMake labItem a static final constant or non-public and provide accessors if needed.( ¡ıê8—ıæ¶2J$380f9048-7064-4447-acf8-4a6c0c4d2694
+¥
+java:S1488”"aImmediately return this expression instead of assigning it to the temporary variable "CenterPan".(§Á¼ö8šıæ¶2J$ff4732a7-264d-493e-a28d-41d70be3ce4f
+¢
+java:S1488‰"^Immediately return this expression instead of assigning it to the temporary variable "result".( ´¤Ÿ8šıæ¶2J$86985eef-7ef1-46b9-9778-2c1c964c12d2
+ª
+java:S1488ù"aImmediately return this expression instead of assigning it to the temporary variable "component".(í·¸Úıÿÿÿÿ8šıæ¶2J$d1e395d9-52c2-4809-8d72-9b5e6bf71f86
+p
+java:S1444""-Make this "public static txtMand" field final(±«ĞÇ8ıæ¶2J$b416bcd6-d813-4692-908d-af42d74042ab
+s
+java:S1444#"+Make this "public static txtSa" field final(Ğîš®ıÿÿÿÿ8ıæ¶2J$f31a86ae-88a0-4fc6-85b7-ab47908e9009
+o
+java:S1444$",Make this "public static txtLdc" field final(•¬À˜8ıæ¶2J$b8869ae5-267b-4dfe-82c6-a7c9f39720d5
+u
+java:S1444%"-Make this "public static txtScpd" field final(åûÆûÿÿÿÿÿ8ıæ¶2J$bb61ef5a-284d-4da9-838c-68455abb4351
+q
+java:S1444&".Make this "public static txtKunde" field final(ŞîÂ•8ıæ¶2J$171b2eac-0422-429d-b136-826d1b0a59d3
+s
+java:S1444'"0Make this "public static txtArtikel" field final(¿‚«8ıæ¶2J$d74a400c-5e25-4c38-9b90-a1008d1da22f
+v
+java:S1444("3Make this "public static txtSchluessel" field final(ˆ¿¹€8ıæ¶2J$c30d3f25-7a70-4223-9581-f6674a04c67f
+t
+java:S1444)",Make this "public static txtZrn" field final(³ä¢œıÿÿÿÿ8ıæ¶2J$9464e1bb-5408-4f02-b31c-b4d8551fa232
+u
+java:S1444*"-Make this "public static tarMemo" field final(…³ò‹ùÿÿÿÿ8ıæ¶2J$5997269b-ff95-4694-9994-6f32af1818c3
+p
+java:S1444+".Make this "public static tarTitel" field final(ĞÁô98ıæ¶2J$aaeaa72d-69a0-46db-b9dd-7afb61917452
+o
+java:S1444,"-Make this "public static tarText" field final(ı‘â]8ıæ¶2J$b7247031-b4dc-47a3-8acd-7ac7176f42c2
+y
+java:S1444-"1Make this "public static dropTextart" field final(Ó¿ÿÏùÿÿÿÿ8ıæ¶2J$65c5a7e4-d71a-4177-97b9-fd437f5c10da
+y
+java:S1444/"1Make this "public static labAutoname" field final(Ïå†ÿÿÿÿÿ8ıæ¶2J$bb06e469-0e89-48b8-848c-68640beab58e
+p
+java:S14440"-Make this "public static labItem" field final( ¡ıê8ıæ¶2J$a3701f40-c817-407c-8b59-be0dc228aff8
+
+java:S1192m"FDefine a constant instead of duplicating this literal "ERROR" 5 times.(¢ÄŞüÿÿÿÿ8¡ıæ¶2J$03ae239f-7119-44d8-a9f2-553dde91912e
+Œ
+java:S1192G"IDefine a constant instead of duplicating this literal "insets 2" 3 times.(‡‚à«8¡ıæ¶2J$8b73faf6-4222-4983-8c88-188dea2f6d64
+ 
+java:S1192"WDefine a constant instead of duplicating this literal "width 30%, height 100%" 4 times.(ª¦ìëüÿÿÿÿ8¡ıæ¶2J$86210afc-a620-42e2-adec-b316e16fcc0a
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¨ıæ¶2J$0db77201-b956-4058-a028-d956f889e437
+m
+java:S19482"*Make "userInfo" transient or serializable.(ÙÁîÿ8«ıæ¶2J$f96e8fc9-711e-4018-a091-54524e47caf9
+o
+java:S19483"-Make "generatePDF" transient or serializable.(’ıh8­ıæ¶2J$1c3658f4-3503-4129-8321-02ea30125d05
+r
+java:S19486"*Make "excelPOI" transient or serializable.(´‰Úçøÿÿÿÿ8¯ıæ¶2J$1002d901-8c37-4aa6-bca9-b2d13040a8fe
+i
+java:S3010;"&Remove this assignment of "dbService".(ÅÀÁ8²ıæ¶2J$a5944789-70a6-4add-82ab-05c43b185155
+x
+java:S2209;"5Change this instance-reference to a static reference.(ÅÀÁ8²ıæ¶2J$3a6b8b4b-7251-4509-b675-815b19c16048
+ƒ	java:S125M"<This block of commented-out lines of code should be removed.(Ã„œÜùÿÿÿÿ8ºıæ¶2J$055189e1-a70d-4095-9690-b50368d4a920
+k	java:S108g")Either remove or fill this block of code.(å¥‡8¾ıæ¶2J$cbd488fa-96fc-49be-be78-cc1f11ebb4eb
+
+java:S2696"6Make the enclosing method "static" or remove this set.(µ´£Òÿÿÿÿÿ8Àıæ¶2J$00299a6f-43f1-4f22-b97b-129cb6d69bbb
+	java:S125…"<This block of commented-out lines of code should be removed.(Ò¿µ8Áıæ¶2J$e5667aad-979e-4f3e-bbb9-d1f5dbe680a2
+	java:S125„"<This block of commented-out lines of code should be removed.(¦š±Ê8Ëıæ¶2J$d9328790-5230-4f0b-9a86-2bc74f190448
+	java:S125¨"<This block of commented-out lines of code should be removed.(şÈÁ¡8Ïıæ¶2J$68321dd9-ac4f-490f-9084-f8c6a887a658
+
+java:S2696­"6Make the enclosing method "static" or remove this set.(´ôšøÿÿÿÿ8Ïıæ¶2J$f010af8d-fefd-4cda-bac5-e8e96ccd2b5b
+	java:S125²"<This block of commented-out lines of code should be removed.(Ò¿µ8Òıæ¶2J$6f9c5bb4-95d4-44bb-b4e9-2d15e8ac6716
+
+java:S2696»"6Make the enclosing method "static" or remove this set.(Ş¬øšøÿÿÿÿ8Óıæ¶2J$2963ee89-2a40-4bd6-98cd-146eb0b3483a
+€
+java:S1854˜"7Remove this useless assignment to local variable "key".(¾ùõıÿÿÿÿ8İıæ¶2J$0237a82b-d66b-462b-ab0e-14114e47b969
+q
+java:S1481˜"(Remove this unused "key" local variable.(¾ùõıÿÿÿÿ8Şıæ¶2J$2c050c91-29d5-4cb2-8360-c58db9a80738
+	java:S125¬"<This block of commented-out lines of code should be removed.(ï÷ªñ8ßıæ¶2J$c5038c37-49f4-49ef-87ef-b0b219422230
+	java:S125¯"<This block of commented-out lines of code should be removed.(´÷ãª8áıæ¶2J$059f25e0-f82b-4e38-b0ef-ff21a889c574
+	java:S125Î"<This block of commented-out lines of code should be removed.(éâÙŞ8åıæ¶2J$6c80022c-8f78-41b3-9685-58642ffa69a5
+z
+java:S2696Õ"6Make the enclosing method "static" or remove this set.(Ãì©8çıæ¶2J$304a14ee-127c-49a0-b2dd-365f6709b6b4
+	java:S125ì"<This block of commented-out lines of code should be removed.(†Ó„‹8èıæ¶2J$e7674a56-2928-454e-b8e9-6402a2c9c9ad
+
+java:S2696ö"6Make the enclosing method "static" or remove this set.(Ö”ş˜úÿÿÿÿ8êıæ¶2J$b6fae94c-629b-42fd-bf69-9c444664b0aa
+
+java:S2696÷"6Make the enclosing method "static" or remove this set.(ÒõáÇÿÿÿÿÿ8ìıæ¶2J$1b261f6c-6694-48a8-84f0-fca89fa206c0
+„	java:S125ø"<This block of commented-out lines of code should be removed.(Êğ­óûÿÿÿÿ8ïıæ¶2J$571ec800-a440-4bf1-b057-2b3d59f141bc
+„	java:S125ü"<This block of commented-out lines of code should be removed.(–Ï¹Šüÿÿÿÿ8ğıæ¶2J$ae0ad11b-4771-492d-9ca1-2860d7177add
+„	java:S125ƒ"<This block of commented-out lines of code should be removed.(Æ°ÂÈşÿÿÿÿ8òıæ¶2J$a9cd062e-4bdb-4e89-8b53-5747fdad46a2
+	java:S125‰"<This block of commented-out lines of code should be removed.(Ø¤¨®8óıæ¶2J$50a8a864-1be6-430f-b9b0-5cc78bc9574c
+	java:S125»"<This block of commented-out lines of code should be removed.(²ÿàÔ8ôıæ¶2J$dc631429-a2da-4fd3-8817-75928f58606b
+	java:S125¿"<This block of commented-out lines of code should be removed.(º„ü¡8õıæ¶2J$0b3e2577-215a-4fc9-a258-705110d873fa
+„	java:S125à"<This block of commented-out lines of code should be removed.(ó¹Î©şÿÿÿÿ8öıæ¶2J$dd032165-bc31-4603-ad2d-8aa71f585604
+„	java:S125ù"<This block of commented-out lines of code should be removed.(ô¿ä¾øÿÿÿÿ8øıæ¶2J$e6b0fd4b-e0ca-4229-95c6-b3728c12d8e2
+~
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(®¸ù8øıæ¶2J$c9305e63-6783-46a0-8895-71efe323bb25
+l	java:S108å")Either remove or fill this block of code.(å¥‡8øıæ¶2J$265e63f8-5619-4e41-8856-53b9164089ed

@@ -1,0 +1,47 @@
+
+
+java:S1192^"VDefine a constant instead of duplicating this literal "h 40px, w 200px, wrap" 7 times.(êé»âÿÿÿÿÿ8ã‹ª‡î1J$1d55c690-53a8-4e0c-9663-846baf83429f
+Œ
+java:S11929"IDefine a constant instead of duplicating this literal "insets 1" 4 times.(ñÅæî8ä‹ª‡î1J$2f9095f6-2264-4936-8726-96aa46169e1e
+“	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê…ÆÀ8æ‹ª‡î1J$0769b096-342d-48e7-9218-76235475fc91
+r
+java:S6829"*Add @Autowired to one of the constructors.(æ‹³ƒüÿÿÿÿ8ì‹ª‡î1J$e71d6e6d-1739-4e0c-b88b-62623ca7ec53
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ñ‹ª‡î1J$c0c4d725-ea5f-4ab8-bdf0-38ba6eaef89e
+ 
+java:S1450""XRemove the "btnBlocke" field and declare it as a local variable in the relevant methods.(½Ù‹£ıÿÿÿÿ8ô‹ª‡î1J$cf42ebcf-4216-4c3e-9085-ccce6ef4971a
+š
+java:S1450"WRemove the "btnClose" field and declare it as a local variable in the relevant methods.(ºí¬Ã8ô‹ª‡î1J$64451c43-d1e5-45ad-9e49-d21ccadb0251
+£
+java:S1450 "[Remove the "btnSpeziEdit" field and declare it as a local variable in the relevant methods.(áÍœúÿÿÿÿ8ô‹ª‡î1J$fdb275f5-1a96-4ea7-b72c-7793a7b0741e
+
+java:S1450"[Remove the "btnSpeziForm" field and declare it as a local variable in the relevant methods.(º©äß8õ‹ª‡î1J$6455cf86-6d0f-4945-9109-28794c9ea733
+
+java:S1450!"[Remove the "btnTextarten" field and declare it as a local variable in the relevant methods.(éÄÈ8õ‹ª‡î1J$c2256429-0070-42d3-914a-26d96994b4ea
+š
+java:S1450"WRemove the "butSpezi" field and declare it as a local variable in the relevant methods.(§şÌ±8õ‹ª‡î1J$0921dc1b-35fa-4057-8302-8dac7743beb9
+š
+java:S1450"WRemove the "userInfo" field and declare it as a local variable in the relevant methods.(ÙÁîÿ8õ‹ª‡î1J$954fe252-290b-4ed9-85b9-1c0936f30750
+n
+java:S1948"+Make "dbService" transient or serializable.(¥š8”»ˆî1J$81a53898-d7c7-4074-8634-8eddb7ae3391
+m
+java:S1948"*Make "userInfo" transient or serializable.(ÙÁîÿ8”»ˆî1J$372b4cfe-4cb5-4bbf-8db2-af1d714e3c02
+~	java:S125R"<This block of commented-out lines of code should be removed.(˜´Ã8Œª‡î1J$4fb61467-6180-4bf6-a1cf-f62f8b8368a2
+t
+java:S1602X",Remove useless curly braces around statement(¦ù¤ëùÿÿÿÿ8ƒŒª‡î1J$1816f66f-4eaa-4e04-8bf2-3f4002dbc812
+t
+java:S1602c",Remove useless curly braces around statement(ÀÁˆÿÿÿÿÿ8…Œª‡î1J$a7be1825-e11b-4c09-a684-dc8f3afe9115
+t
+java:S1602i",Remove useless curly braces around statement(‹ª”·ùÿÿÿÿ8…Œª‡î1J$efb734c0-294d-4370-a2d7-d34918af0be8
+t
+java:S1602n",Remove useless curly braces around statement(‰½ÀŞûÿÿÿÿ8†Œª‡î1J$7cbc67bd-01ab-45f9-80be-763271aed0f2
+o
+java:S1602s",Remove useless curly braces around statement(Ó²–±8‡Œª‡î1J$47dbcba3-17ac-4b17-a3ed-ae40b6d872e3
+o
+java:S1602w",Remove useless curly braces around statement(¾³Üœ8‡Œª‡î1J$d007a62b-fa73-4993-b0f6-05be55ddac52
+t
+java:S1602}",Remove useless curly braces around statement(ŞÂ„ûÿÿÿÿ8ˆŒª‡î1J$e8ab9b3e-7943-4fd4-bcbc-63b5052b1bf8
+~	java:S125ˆ"<This block of commented-out lines of code should be removed.(ÀÙ08‰Œª‡î1J$d891af36-52ad-4901-a24a-10323a2134b0
+	java:S125’"<This block of commented-out lines of code should be removed.(í¨¡•8ŠŒª‡î1J$6607ab6b-641e-41de-9638-446e4b4844bb
+‚
+java:S1128	":Remove this unused import 'app.form.textbocke.TextBlocke'.(ªÁå¢øÿÿÿÿ8´»ˆî1J$22cb5bcf-25fa-4e19-aa4f-53d022ee1c6e

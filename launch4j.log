@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\java\13\spezi\Spezi.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\java\13\spezi\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	\\almi.at\share\Spezi\jre
+Check launcher:	\\almi.at\share\Spezi\jre\bin\javaw.exe (OK)
+Version string: 1.019.000_002 / 64-Bit (OK)
+Launcher:	\\almi.at\share\Spezi\jre\bin\javaw.exe
+Launcher args:	-jar "C:\java\13\spezi\Spezi.exe"
+Args length:	33/32768 chars
+Exit code:	0

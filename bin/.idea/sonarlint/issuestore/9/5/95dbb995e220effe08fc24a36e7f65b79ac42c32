@@ -1,0 +1,17 @@
+
+
+java:S1192@"SDefine a constant instead of duplicating this literal "align center, wrap" 3 times.(¾ƒ›£J$e4bc6760-4bdb-4692-bdcc-c6eff3a86f14
+
+java:S1192?"MDefine a constant instead of duplicating this literal "align center" 3 times.(ğİ¦„úÿÿÿÿJ$74fe7f63-96e6-40e0-993b-b2e887261c8f
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$7884addb-db14-4d02-9595-f89fae02475e
+_
+java:S2440"#Remove this instantiation of "MD5".(»¸‡ÊJ$0b804f57-241f-43a4-a877-256ab1dce1a6
+“
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ˆÍ´‰ûÿÿÿÿJ$d73b3b05-3ef9-4813-b311-808ab630c93d
+|	java:S125<"<This block of commented-out lines of code should be removed.(£É¾ÂÿÿÿÿÿJ$2a27da53-32f0-4967-b030-baaf9375c3dc
+v
+java:S2209S"5Change this instance-reference to a static reference.(¨â§ßùÿÿÿÿJ$f80ab9ed-625a-4d78-9eae-0af620e27acc
+q
+java:S2209{"5Change this instance-reference to a static reference.(ğüî›J$c6b0550c-a6e2-461c-9e54-b5341aae6ee4
+„	java:S125"<This block of commented-out lines of code should be removed.(€à¸‰øÿÿÿÿ8®¥ˆî1J$a36dc281-3b6e-4143-be7b-f433fa4fb1a5

@@ -1,0 +1,22 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ã¥‡î1J$f1a0f16f-9465-4dcf-8326-a3f4454f71fe
+Ÿ
+java:S1450"WRemove the "cmdLogin" field and declare it as a local variable in the relevant methods.(å©‹×ıÿÿÿÿ8Å¥‡î1J$a18e6815-b1cf-45ce-8ee6-ce5e2815c8db
+¢
+java:S1450"ZRemove the "txtPassword" field and declare it as a local variable in the relevant methods.(ŸÓŒÔûÿÿÿÿ8Æ¥‡î1J$47eb0a6b-5ea8-401d-9f86-6213622f57d0
+¢
+java:S1450"ZRemove the "txtUsername" field and declare it as a local variable in the relevant methods.(”ƒĞŠûÿÿÿÿ8Æ¥‡î1J$f05bc63c-7b27-47aa-9793-39c14809a360
+š
+java:S1450 "WRemove the "userInfo" field and declare it as a local variable in the relevant methods.(ÙÁîÿ8Æ¥‡î1J$1147bda7-8f68-43b8-befb-b3d3091e5b56
+H
+java:S1948"+Make "dbService" transient or serializable.(¥š8¯Ï°ˆî1
+G
+java:S1948 "*Make "userInfo" transient or serializable.(ÙÁîÿ8±Ï°ˆî1
+B
+java:S1948!"%Make "md5" transient or serializable.(»¸‡Ê8³Ï°ˆî1
+@
+java:S2440!"#Remove this instantiation of "MD5".(»¸‡Ê8¼Ï°ˆî1
+~	java:S125;"<This block of commented-out lines of code should be removed.(³óï8Ï¥‡î1J$7b162c08-22c2-405d-b761-4f599c22aa54
+W
+java:S2209e"5Change this instance-reference to a static reference.(Ååùşÿÿÿÿ8ĞÏ°ˆî1

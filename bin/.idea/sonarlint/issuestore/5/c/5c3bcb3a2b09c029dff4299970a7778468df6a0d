@@ -1,0 +1,55 @@
+
+b
+java:S1192¯"FDefine a constant instead of duplicating this literal "ERROR" 6 times.(ÓùÃ’øÿÿÿÿ
+h
+java:S1192"QDefine a constant instead of duplicating this literal "Update text: << " 5 times.(ÿµï
+e
+java:S1192"NDefine a constant instead of duplicating this literal ">>>>>>>>>>>><" 5 times.(ÿµï
+—
+java:S1192ù"{Define a constant instead of duplicating this literal "Wert key existiert, bitte geben Sie einen anderen Wert ein" 3 times.(È¼«ãşÿÿÿÿ
+_
+java:S1192¦"HDefine a constant instead of duplicating this literal "Working" 3 times.(ú„ÅÓ
+j
+java:S1192ù"NDefine a constant instead of duplicating this literal "Eingabefehler" 3 times.(È¼«ãşÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+m
+java:S1450"WRemove the "tarText1" field and declare it as a local variable in the relevant methods.(–†Øè
+r
+java:S1450"WRemove the "textList" field and declare it as a local variable in the relevant methods.(Ô··Ÿøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(â™ê×
+Q	java:S125"<This block of commented-out lines of code should be removed.(–†Øè
+m
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(şñÊëÿÿÿÿÿ
+U
+java:S1854?":Remove this useless assignment to local variable "insets".(éıİÜşÿÿÿÿ
+V
+java:S1854l";Remove this useless assignment to local variable "labText".(±Ñæáüÿÿÿÿ
+R
+java:S1854J"<Remove this useless assignment to local variable "tarText2".(ãàˆ¡
+R
+java:S1854ª"<Remove this useless assignment to local variable "labText1".(éôm
+Q	java:S125F"<This block of commented-out lines of code should be removed.(Ò¿µ
+t
+java:S3252s"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(ÅŞüÁşÿÿÿÿ
+p
+java:S3252t"ZUse static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_NEVER".(¢êÖ™
+R	java:S125"<This block of commented-out lines of code should be removed.(» èÏ
+A	java:S106"+Replace this use of System.out by a logger.(ÿµï
+A	java:S106º"+Replace this use of System.out by a logger.(ÿµï
+?	java:S108Ç")Either remove or fill this block of code.(å¥‡
+A	java:S106Ù"+Replace this use of System.out by a logger.(ÿµï
+A	java:S106ô"+Replace this use of System.out by a logger.(•¶š¸
+W	java:S125ı"<This block of commented-out lines of code should be removed.(î©¿ƒûÿÿÿÿ
+p
+java:S3252±"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(‹€™µ
+v
+java:S3252²"ZUse static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_NEVER".(’ŠşÒøÿÿÿÿ
+R	java:S125Ì"<This block of commented-out lines of code should be removed.(» èÏ
+A	java:S106à"+Replace this use of System.out by a logger.(Ò¸Æ
+C
+java:S1602ø",Remove useless curly braces around statement(‹»³¿
+A	java:S106"+Replace this use of System.out by a logger.(ÿµï
+W	java:S125—"<This block of commented-out lines of code should be removed.(î©¿ƒûÿÿÿÿ
+A
+java:S1068"+Remove this unused "tarText" private field.(â™ê×

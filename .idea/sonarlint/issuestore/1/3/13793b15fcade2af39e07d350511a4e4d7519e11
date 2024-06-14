@@ -1,0 +1,10 @@
+
+k
+java:S1604#"(Make this anonymous inner class a lambda(Èú†8¼ôº´2J$fc9c59a9-caae-49d1-b37c-3e4815091f19
+Œ
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8¿ôº´2J$944743cc-8583-4ca5-b209-e25f30204ac4
+‚
+java:S18545"?Remove this useless assignment to local variable "columnModel".(®Íå8Ãôº´2J$03a92dfa-67f0-4351-b6ce-df3bb8bfe9d8
+s
+java:S14815"0Remove this unused "columnModel" local variable.(®Íå8Äôº´2J$5eb5f123-781f-4a6f-b703-c83fb61940ae
+r	java:S106E"+Replace this use of System.out by a logger.(û‹‘Ûùÿÿÿÿ8÷ƒ³´2J$f3809053-923e-4f9f-9ab0-b00d339d237c

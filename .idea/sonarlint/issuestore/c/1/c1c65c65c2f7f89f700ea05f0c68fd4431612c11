@@ -1,0 +1,11 @@
+
+±
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¼öË¢8æœ§·2J$a8cd0810-acc7-46e5-ad86-0249b7587764
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8íœ§·2J$750ae461-f19a-4dec-88c6-ea82bfe9e2c2
+—
+java:S1450"TRemove the "frame" field and declare it as a local variable in the relevant methods.(ñğ‰Í8îœ§·2J$941cf489-a432-4db6-9c83-2fe4b3e964c5
+q
+java:S1144¦"-Remove this unused private "loadFont" method.(Áé˜ã8ğœ§·2J$ab97f61a-da56-44b4-ac06-e85f9fa5d49c
+l
+java:S1068")Remove this unused "frame" private field.(ñğ‰Í8ıœ§·2J$60c3a380-a209-4fb4-8f5f-fe2d4c24a445

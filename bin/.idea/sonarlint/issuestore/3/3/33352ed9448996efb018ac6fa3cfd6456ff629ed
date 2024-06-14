@@ -1,0 +1,20 @@
+
+e
+java:S1192"JDefine a constant instead of duplicating this literal "user.name" 3 times.(³Ú«Üøÿÿÿÿ
+y
+java:S1488B"^Immediately return this expression instead of assigning it to the temporary variable "output".(Ì‘İúÿÿÿÿ
+-
+java:S1700"Rename field "userInfo"(õùøŒ
+X
+java:S6813
+"BRemove this field injection and use constructor injection instead.(êæÄŞ
+o
+java:S1450"YRemove the "adminRolle" field and declare it as a local variable in the relevant methods.(”Ñæ
+m
+java:S1450"WRemove the "userInfo" field and declare it as a local variable in the relevant methods.(õùøŒ
+T
+java:S1117">Rename "adminRolle" which hides the field declared at line 15.(¦ï¹è
+V
+java:S18548"@Remove this useless assignment to local variable "berechtigung".(©ù¨¢
+H
+java:S1068"2Remove this unused "userRepository" private field.(×Š¾

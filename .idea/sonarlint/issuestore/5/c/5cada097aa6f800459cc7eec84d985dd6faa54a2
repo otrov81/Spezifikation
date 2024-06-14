@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íˆ÷æ
+c
+java:S6201"MReplace this instanceof check and cast with 'instanceof SpeziTextart textart'(Ø½’ƒ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ö–Òûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÖàáÙúÿÿÿÿ

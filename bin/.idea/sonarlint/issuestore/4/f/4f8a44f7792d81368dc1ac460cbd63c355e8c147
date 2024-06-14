@@ -1,0 +1,96 @@
+
+_
+java:S1192F"IDefine a constant instead of duplicating this literal "insets 2" 3 times.(‡‚à«
+s
+java:S1192â"WDefine a constant instead of duplicating this literal "width 30%, height 100%" 4 times.(ª¦ìëüÿÿÿÿ
+a
+java:S1192k"FDefine a constant instead of duplicating this literal "ERROR" 5 times.(¢ÄŞüÿÿÿÿ
+f	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô³n
+g	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Á¼ö
+x
+java:S1488ë"aImmediately return this expression instead of assigning it to the temporary variable "CenterPan".(§Á¼ö
+u
+java:S1488à"^Immediately return this expression instead of assigning it to the temporary variable "result".( ´¤Ÿ
+}
+java:S1488Ğ"aImmediately return this expression instead of assigning it to the temporary variable "component".(í·¸Úıÿÿÿÿ
+i
+java:S1104""SMake txtMand a static final constant or non-public and provide accessors if needed.(±«ĞÇ
+l
+java:S1104#"QMake txtSa a static final constant or non-public and provide accessors if needed.(Ğîš®ıÿÿÿÿ
+h
+java:S1104$"RMake txtLdc a static final constant or non-public and provide accessors if needed.(•¬À˜
+n
+java:S1104%"SMake txtScpd a static final constant or non-public and provide accessors if needed.(åûÆûÿÿÿÿÿ
+j
+java:S1104&"TMake txtKunde a static final constant or non-public and provide accessors if needed.(ŞîÂ•
+l
+java:S1104'"VMake txtArtikel a static final constant or non-public and provide accessors if needed.(¿‚«
+o
+java:S1104("YMake txtSchluessel a static final constant or non-public and provide accessors if needed.(ˆ¿¹€
+m
+java:S1104)"RMake txtZrn a static final constant or non-public and provide accessors if needed.(³ä¢œıÿÿÿÿ
+n
+java:S1104*"SMake tarMemo a static final constant or non-public and provide accessors if needed.(…³ò‹ùÿÿÿÿ
+i
+java:S1104+"TMake tarTitel a static final constant or non-public and provide accessors if needed.(ĞÁô9
+h
+java:S1104,"SMake tarText a static final constant or non-public and provide accessors if needed.(ı‘â]
+r
+java:S1104-"WMake dropTextart a static final constant or non-public and provide accessors if needed.(Ó¿ÿÏùÿÿÿÿ
+r
+java:S1104/"WMake labAutoname a static final constant or non-public and provide accessors if needed.(Ïå†ÿÿÿÿÿ
+i
+java:S11040"SMake labItem a static final constant or non-public and provide accessors if needed.( ¡ıê
+C
+java:S1444""-Make this "public static txtMand" field final(±«ĞÇ
+F
+java:S1444#"+Make this "public static txtSa" field final(Ğîš®ıÿÿÿÿ
+B
+java:S1444$",Make this "public static txtLdc" field final(•¬À˜
+H
+java:S1444%"-Make this "public static txtScpd" field final(åûÆûÿÿÿÿÿ
+D
+java:S1444&".Make this "public static txtKunde" field final(ŞîÂ•
+F
+java:S1444'"0Make this "public static txtArtikel" field final(¿‚«
+I
+java:S1444("3Make this "public static txtSchluessel" field final(ˆ¿¹€
+G
+java:S1444)",Make this "public static txtZrn" field final(³ä¢œıÿÿÿÿ
+H
+java:S1444*"-Make this "public static tarMemo" field final(…³ò‹ùÿÿÿÿ
+C
+java:S1444+".Make this "public static tarTitel" field final(ĞÁô9
+B
+java:S1444,"-Make this "public static tarText" field final(ı‘â]
+L
+java:S1444-"1Make this "public static dropTextart" field final(Ó¿ÿÏùÿÿÿÿ
+L
+java:S1444/"1Make this "public static labAutoname" field final(Ïå†ÿÿÿÿÿ
+C
+java:S14440"-Make this "public static labItem" field final( ¡ıê
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê¥¼©
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+<
+java:S3010:"&Remove this assignment of "dbService".(ÅÀÁ
+K
+java:S2209:"5Change this instance-reference to a static reference.(ÅÀÁ
+>	java:S108e")Either remove or fill this block of code.(å¥‡
+R	java:S125ƒ"<This block of commented-out lines of code should be removed.(Ò¿µ
+A	java:S106–"+Replace this use of System.out by a logger.(Îó£õ
+R	java:S125‡"<This block of commented-out lines of code should be removed.(Ò¿µ
+A	java:S106Ì"+Replace this use of System.out by a logger.(Ù È
+S
+java:S1854í"7Remove this useless assignment to local variable "key".(¾ùõıÿÿÿÿ
+A	java:S106ê"+Replace this use of System.out by a logger.(¢ÆåÓ
+R	java:S125ƒ"<This block of commented-out lines of code should be removed.(´÷ãª
+W	java:S125°"<This block of commented-out lines of code should be removed.(ÉÔ®Œûÿÿÿÿ
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(Êğ­óûÿÿÿÿ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(–Ï¹Šüÿÿÿÿ
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(Æ°ÂÈşÿÿÿÿ
+Q
+java:S1161ö":Add the "@Override" annotation above this method signature(®¸ù
+?	java:S108¼")Either remove or fill this block of code.(å¥‡
+W	java:S125Ş"<This block of commented-out lines of code should be removed.(ô—’ÿşÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(ä‚²­úÿÿÿÿ

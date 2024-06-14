@@ -1,0 +1,10 @@
+
+†	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$8cb6d39e-f6fc-4ed6-ac71-ee6b110cd40c
+ª
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¼öË¢J$8c188182-c377-4986-927c-65f96c1a8518
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$c3a604cf-3007-44c7-b40d-d7f72e54f391
+
+java:S1450"TRemove the "frame" field and declare it as a local variable in the relevant methods.(ñğ‰ÍJ$86ab2c6c-ec8f-495b-971d-d20a106ae087
+e
+java:S1068")Remove this unused "frame" private field.(ñğ‰ÍJ$f251abb6-9e9f-41dc-a83f-1b7d6041d86a

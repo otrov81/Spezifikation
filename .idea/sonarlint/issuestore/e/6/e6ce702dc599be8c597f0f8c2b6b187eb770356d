@@ -1,0 +1,100 @@
+
+…
+java:S1192Â"HDefine a constant instead of duplicating this literal "Textart" 3 times.(‡²­‡J$d4ed438e-c553-4012-9af3-e3baa00f93fa
+
+java:S1192–"FDefine a constant instead of duplicating this literal "ERROR" 4 times.(ºí—³øÿÿÿÿ8Ÿ—ñ¹õ1J$d2c30c9f-4bdf-44c9-9c4c-cbf966c338e1
+
+java:S1192…"QDefine a constant instead of duplicating this literal "Update text: << " 3 times.(ÿµïJ$6ff21381-9702-46cf-9c0a-a5f9f554ed01
+‹
+java:S1192…"NDefine a constant instead of duplicating this literal ">>>>>>>>>>>><" 3 times.(ÿµïJ$3d928558-f6d1-4490-8af7-f69f1ccf0b8a
+…
+java:S1192"HDefine a constant instead of duplicating this literal "Working" 3 times.(ú„ÅÓJ$823e2af5-3818-48ab-a9af-62fea3c6aca1
+e
+java:S1604"(Make this anonymous inner class a lambda(Ñõ¾J$b5662164-cd89-4806-b8da-dd5d4ffaeb4a
+¡
+java:S1104$"YMake fixedVariable a static final constant or non-public and provide accessors if needed.(ªë×Öÿÿÿÿÿ8ğãóÕğ1J$6ac6f5d4-6967-4cdb-b67e-b38c298fd04d
+{
+java:S1444$"3Make this "public static fixedVariable" field final(ªë×Öÿÿÿÿÿ8òãóÕğ1J$6698cd05-a68b-42e4-a3e8-e5c8b8ded8cc
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê¥¼©J$84687a70-3dc9-4ce0-85ae-88d52ebf8c4c
+›
+java:S1450"XRemove the "jcomSSpcd" field and declare it as a local variable in the relevant methods.(­‚‡®8œåóÕğ1J$926cf8a2-ee40-46b0-86f7-4e409e9e17d2
+š
+java:S1450"WRemove the "tarText1" field and declare it as a local variable in the relevant methods.(–†Øè8åóÕğ1J$d1b2361a-4885-4a82-b779-d4172a0a5d20
+
+java:S1450 "[Remove the "textDropdown" field and declare it as a local variable in the relevant methods.(Å—¿Á8åóÕğ1J$a9076c10-0b63-4468-a610-61502ce49e47
+Ÿ
+java:S1450"WRemove the "textList" field and declare it as a local variable in the relevant methods.(Ô··Ÿøÿÿÿÿ8åóÕğ1J$9f9864b0-59b2-4592-83de-3f7f794417eb
+m
+java:S1948""*Make "userInfo" transient or serializable.(ÙÁîÿ8¡åóÕğ1J$e775e4d1-74ff-4e65-b7b9-527ab7faebe1
+m
+java:S1948'"*Make "menuInfo" transient or serializable.(ªÅºÃ8¡åóÕğ1J$46f73dac-19f3-4665-9026-a082ed7d3511
+~	java:S125"<This block of commented-out lines of code should be removed.(â™ê×8¦åóÕğ1J$735c4f2b-bc01-4f82-9435-af865bce0c2f
+~	java:S125"<This block of commented-out lines of code should be removed.(–†Øè8§åóÕğ1J$61e06394-1da0-42d3-9629-1b15699b36de
+~	java:S125%"<This block of commented-out lines of code should be removed.(‰ğ˜8©åóÕğ1J$e65bb709-c5e7-4e7c-88ea-361eb42d95de
+š
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(şñÊëÿÿÿÿÿ8­åóÕğ1J$4a7a9c3c-f447-4bf8-af87-e4cabafe2156
+}
+java:S1854Ó";Remove this useless assignment to local variable "labText".(±ÑæáüÿÿÿÿJ$a6c7d40a-49c8-4f66-8ef8-a293a7b5a82f
+y
+java:S1854°"<Remove this useless assignment to local variable "tarText2".(ãàˆ¡J$dc6dc87e-8772-4e9d-ba68-95caa7b0d160
+x
+java:S1854"<Remove this useless assignment to local variable "labText1".(éômJ$168b2b5f-4b6e-4f4d-bd5f-a3a347971735
+ƒ	java:S125;"<This block of commented-out lines of code should be removed.(Ã„œÜùÿÿÿÿ8€ÇÄ°î1J$54484d3a-fa8d-44b4-956f-7b5d51c56fbe
+~
+java:S2696\"6Make the enclosing method "static" or remove this set.(×Şì¥şÿÿÿÿ8òùòÕğ1J$6293780c-ea5f-451e-b110-7c42c075720e
+ƒ	java:S125B"<This block of commented-out lines of code should be removed.(Ã„œÜùÿÿÿÿ8àŞÄ°î1J$82e47a75-a6c4-4dfa-9c98-2473f0503633
+w	java:S125F"<This block of commented-out lines of code should be removed.(ŒæèŠJ$d949f17f-ce75-44e6-82de-c224791556f0
+|	java:S125K"<This block of commented-out lines of code should be removed.(Í¦ñêúÿÿÿÿJ$4c98e5de-1064-480f-a589-576208cff163
+w	java:S125W"<This block of commented-out lines of code should be removed.(ÔØJ$87ae5cd1-eaa4-4f1c-9a98-96c21752d84a
+y
+java:S2696c"6Make the enclosing method "static" or remove this set.(­ÍÑ8õùòÕğ1J$4deba6d6-fdd4-4ff8-aa76-15391a194e67
+–
+java:S6201„"RReplace this instanceof check and cast with 'instanceof SpeziTextart speziTextart'(Ø½’ƒ8âÇ±î1J$1e0053a2-9595-44fe-8a3d-de44069e9299
+
+java:S2696”"6Make the enclosing method "static" or remove this set.(¡”©ÿÿÿÿÿ8ûùòÕğ1J$375b8459-d2d8-4917-8060-418832b25d22
+x	java:S125—"<This block of commented-out lines of code should be removed.(®¤ü›J$40d7279d-6992-4e18-a98b-43f5169092cc
+g	java:S106¤"+Replace this use of System.out by a logger.(¸¨üŠJ$22df53d6-7b2b-4543-8499-8ad08a570194
+
+java:S2696§"6Make the enclosing method "static" or remove this set.(´ôšøÿÿÿÿ8ıùòÕğ1J$d1843572-eba0-47cf-8a99-396686dd7971
+x	java:S125¬"<This block of commented-out lines of code should be removed.(Ò¿µJ$21d2bb37-21fa-47a8-98f4-82ac2e2196d8
+„	java:S125´"<This block of commented-out lines of code should be removed.(’­œûùÿÿÿÿ8¯üÄ°î1J$b1273c16-5d5a-4c80-972a-170e9582326d
+„	java:S125¿"<This block of commented-out lines of code should be removed.(¢¨–šúÿÿÿÿ8§Å°î1J$3663b628-1382-4b94-91df-369645b43ec2
+u
+java:S1481Ó",Remove this unused "labText" local variable.(±Ñæáüÿÿÿÿ8ƒúòÕğ1J$34881b94-5a01-42da-a057-10b021480b02
+›
+java:S3252Ú"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(ÅŞüÁşÿÿÿÿJ$403eb02b-3107-4744-ace2-e46b65620245
+—
+java:S3252Û"ZUse static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_NEVER".(¢êÖ™J$7e3ede3c-8147-4ec0-af1e-e1e22fda6fc7
+}	java:S125â"<This block of commented-out lines of code should be removed.(›—÷ùùÿÿÿÿJ$f2517abf-f42b-4dd9-8f56-e4d052165951
+}	java:S125ñ"<This block of commented-out lines of code should be removed.(öÎ¡‡ıÿÿÿÿJ$fc795daa-da65-4b70-8498-5d2a01547f44
+„	java:S125ô"<This block of commented-out lines of code should be removed.( ôÔŞüÿÿÿÿ8Ò¼Å°î1J$910f98e1-79a7-4d61-a50d-0521ae117993
+g	java:S106…"+Replace this use of System.out by a logger.(ÿµïJ$9eb13c41-3260-4e37-b6a4-a9cb1dbcf1be
+g	java:S106¡"+Replace this use of System.out by a logger.(ÿµïJ$e112ff35-3dcc-4666-8786-71bf71143c9e
+e	java:S108®")Either remove or fill this block of code.(å¥‡J$7004aefb-f46e-4a51-b094-162204410d08
+	java:S125º"<This block of commented-out lines of code should be removed.(´÷ãª8»Áí¹õ1J$13d6a531-c95a-47f4-a0f4-837dcf0c5e30
+g	java:S106Å"+Replace this use of System.out by a logger.(ÿµïJ$f9f63c9f-d3c0-40e9-9d7b-24c39a32ae26
+	java:S125Ğ"<This block of commented-out lines of code should be removed.(´÷ãª8ÿï¹õ1J$5e1950f1-1781-49ff-9e34-ebfd645efad0
+x	java:S125Õ"<This block of commented-out lines of code should be removed.(ÿ·İõJ$5d9053fc-611d-4265-b9ab-969fd16801c2
+„	java:S125ó"<This block of commented-out lines of code should be removed.(ÈÕÃÚøÿÿÿÿ8«âÅ°î1J$7ab4359c-99e7-404c-89f4-093aa515788b
+	java:S125ş"<This block of commented-out lines of code should be removed.(™Äû¬8ÅûÅ°î1J$d3061022-4de7-43cc-91af-29ba5bc59bb1
+p
+java:S1481"-Remove this unused "labText1" local variable.(éôm8’úòÕğ1J$0eb0e34e-282f-4b19-9143-0b02e69734da
+–
+java:S3252–"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(‹€™µJ$58d162af-e1ff-44e2-8d44-662e12106e23
+œ
+java:S3252—"ZUse static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_NEVER".(’ŠşÒøÿÿÿÿJ$6589b916-6347-4b02-aa54-70666b17d1db
+}	java:S125"<This block of commented-out lines of code should be removed.(ıÔàÉÿÿÿÿÿJ$261e3dfd-9a56-4cb5-a25d-c3b0359b3886
+}	java:S125­"<This block of commented-out lines of code should be removed.(Á†ª…ıÿÿÿÿJ$d866b337-bc40-4b43-b8c1-c235b8e7fb63
+„	java:S125°"<This block of commented-out lines of code should be removed.(±šı’øÿÿÿÿ8ùšÆ°î1J$71a44de7-5df9-4ea6-ab12-2c5a6e7436d3
+g	java:S106Ä"+Replace this use of System.out by a logger.(Ò¸ÆJ$86500500-0534-43e0-bd70-c35c4d83ca9d
+^	java:S125Ø"<This block of commented-out lines of code should be removed.(ÀÌ¨Íşÿÿÿÿ8àô¹õ1
+i
+java:S1602Ş",Remove useless curly braces around statement(‹»³¿J$cbcbc841-f14d-4f77-8b6b-a72328a125cc
+}	java:S125è"<This block of commented-out lines of code should be removed.(ª¤¶îüÿÿÿÿJ$a99802aa-664b-4f7e-8120-23c6f3ab2bc2
+„	java:S125‚"<This block of commented-out lines of code should be removed.(«–ÂÂÿÿÿÿÿ8àºÆ°î1J$f0b8a8da-3656-45dc-b40b-db2b56790967
+x	java:S125‹"<This block of commented-out lines of code should be removed.(÷‚¼”J$1af290c6-4907-4501-9c0f-f4f0d0418137
+l	java:S106ª"+Replace this use of System.out by a logger.(æ‚ÙııÿÿÿÿJ$91f37ae8-0090-45d7-854d-1acd6e262765
+g	java:S106®"+Replace this use of System.out by a logger.(¸¨üŠJ$0946934f-cf3f-48d1-a234-54fb11116493
+g	java:S106¶"+Replace this use of System.out by a logger.(¯íÃªJ$51b7e9b5-dfb3-4ccb-a8a4-1a64fb471743
+n
+java:S1068"+Remove this unused "tarText" private field.(â™ê×8âåóÕğ1J$9201654d-fcbf-4214-a60f-2675dbd6f8c1

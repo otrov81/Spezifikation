@@ -1,0 +1,23 @@
+
+•
+java:S1192"TDefine a constant instead of duplicating this literal "FlatLaf macOS Light" 3 times.(Ñ´“ïùÿÿÿÿJ$5843cdcf-e32d-41fb-a901-03037e5688a0
+”
+java:S1192."SDefine a constant instead of duplicating this literal "FlatLaf macOS Dark" 3 times.(“»Ï¨üÿÿÿÿJ$25ffddbd-04df-4fd4-a004-1ceb63460fe8
+“
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(î ¾şÿÿÿÿJ$139a655c-408f-4aff-970d-db94e9caa686
+f	java:S106"+Replace this use of System.out by a logger.(ÓŒ•³J$c7698637-96da-44cb-a4bf-7a0e19c4d1a1
+k	java:S106"+Replace this use of System.out by a logger.(İè¬øÿÿÿÿJ$4de487cc-8642-4efe-a61b-407c4a580a56
+w	java:S125"<This block of commented-out lines of code should be removed.(™ú°ÿJ$2741c0ea-c03a-45a6-8b42-537d24ff8ce1
+f	java:S106 "+Replace this use of System.out by a logger.(ºÙ„½J$37a740bb-a4bd-4d9b-adb0-aea381e580dc
+w	java:S125#"<This block of commented-out lines of code should be removed.(™ú°ÿJ$1e43b66d-a014-42ec-9540-484172636257
+f	java:S106@"+Replace this use of System.out by a logger.(…û«ÔJ$e9458c05-45c1-4e2a-b648-23bcccb4dbc1
+k	java:S106C"+Replace this use of System.out by a logger.(´ğ«şÿÿÿÿJ$c490a16b-fb95-4b2c-bd68-34fd19cc4606
+w	java:S125F"<This block of commented-out lines of code should be removed.(™ú°ÿJ$7154d90d-79aa-471e-ad54-cd1aa3c446ff
+k	java:S106I"+Replace this use of System.out by a logger.(ÎÒ°¬øÿÿÿÿJ$18d17fe8-e77e-4a1c-9b8b-ee14f39ac6a2
+w	java:S125L"<This block of commented-out lines of code should be removed.(™ú°ÿJ$243ee42a-71f6-46f0-91bd-97dc91e07920
+Œ
+java:S1764Z"KCorrect one of the identical sub-expressions on both sides of operator "||"(½‹–›øÿÿÿÿJ$8738fef4-1074-4f67-aad9-1366fb300723
+Œ
+java:S1764^"KCorrect one of the identical sub-expressions on both sides of operator "||"(Œ³ã‰şÿÿÿÿJ$18c6e418-4a40-4a6a-ac83-7cd6b918cee0
+†
+java:S6541"ÄA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 71 to 64, Complexity from 18 to 14, Nesting Level from 3 to 2, Number of Variables from 8 to 6.(î ¾şÿÿÿÿJ$0de73b04-34ce-4d85-bc8a-5a6fddefc6f8

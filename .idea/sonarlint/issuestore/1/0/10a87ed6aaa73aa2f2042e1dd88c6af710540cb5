@@ -1,0 +1,20 @@
+
+
+java:S1192À"MDefine a constant instead of duplicating this literal "svg/save.svg" 4 times.(å¿µ—úÿÿÿÿJ$4a3c1542-0e1c-4f73-af7d-2975289a275f
+ˆ
+java:S1192à"FDefine a constant instead of duplicating this literal "ERROR" 4 times.(Í¾±úÿÿÿÿJ$950f04c7-4153-4148-93b6-b79d7d29a77f
+i
+java:S1604v"(Make this anonymous inner class a lambda(Ë­¦¦ÿÿÿÿÿJ$ebbcdf9d-51f2-4be4-9057-9bf80c7074e0
+š
+java:S1104$"YMake fixedVariable a static final constant or non-public and provide accessors if needed.(ªë×ÖÿÿÿÿÿJ$164e00e6-37ed-4119-91fa-35baf0b8b187
+t
+java:S1444$"3Make this "public static fixedVariable" field final(ªë×ÖÿÿÿÿÿJ$4104743c-27ee-454b-a483-101f641bebde
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“¥³³J$edb85d3f-dc7a-4049-9d1e-9ff286cf502a
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$47a81278-1126-4ceb-ab88-7f5e51d3ce38
+—
+java:S1450"[Remove the "textDropdown" field and declare it as a local variable in the relevant methods.(¿Ó¥ÛJ$f5af91fa-a08b-4740-bfdf-2061ee7c01c1
+
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.( ÜóJ$7b89c8cb-4e5b-4bfb-9db0-106abeafc686
+e	java:S108Ú")Either remove or fill this block of code.(å¥‡J$dca04209-62a4-4d45-b210-cac838b60883
+e	java:S108")Either remove or fill this block of code.(å¥‡J$c579b86e-03a3-4cf6-a083-86a38c87874b
