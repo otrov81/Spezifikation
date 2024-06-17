@@ -1,0 +1,84 @@
+
+J
+java:S3740!"/Provide the parametrized type for this generic.(Àì ±øÿÿÿÿ
+d
+java:S1192ğ"HDefine a constant instead of duplicating this literal "split 2" 4 times.(Ş¼Ã´ûÿÿÿÿ
+w
+java:S1192ê"`Define a constant instead of duplicating this literal "Kundennummer existiert nicht!!!" 3 times.(óÆ¦’
+y
+java:S1192Â"]Define a constant instead of duplicating this literal "Bitte LÃ¤ndercode eintragen!" 3 times.(ëîè†ùÿÿÿÿ
+f
+java:S1192³"ODefine a constant instead of duplicating this literal "Eingabefehler" 26 times.(ëÉëä
+u
+java:S1192œ"^Define a constant instead of duplicating this literal "Bitte Kundennummer eintragen!" 4 times.(ïæ—â
+e
+java:S1192¯"IDefine a constant instead of duplicating this literal "Vorlage" 13 times.(± Ÿıÿÿÿÿ
+x
+java:S1192¸"\Define a constant instead of duplicating this literal "Bitte Sprachcode eintragen!" 7 times.(’¯ÎËøÿÿÿÿ
+f
+java:S1192±"JDefine a constant instead of duplicating this literal "Abbrechen" 4 times.(ÂÆ¨œøÿÿÿÿ
+{
+java:S1192Æ"_Define a constant instead of duplicating this literal "Bitte Artikelnummer eintragen!" 4 times.(‘–™Íúÿÿÿÿ
+D
+java:S5411“"(Use a primitive boolean expression here.(³è©“úÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë€–P
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+q
+java:S1450*"[Remove the "btnSpeziEdit" field and declare it as a local variable in the relevant methods.(Òäå
+r
+java:S1450"WRemove the "textList" field and declare it as a local variable in the relevant methods.(Û·äøÿÿÿÿ
+v
+java:S1450)"[Remove the "textListLand" field and declare it as a local variable in the relevant methods.(Ê«¡çüÿÿÿÿ
+q
+java:S1450"[Remove the "textListSpcd" field and declare it as a local variable in the relevant methods.(¹†ô
+i
+java:S3776?"SRefactor this method to reduce its Cognitive Complexity from 273 to the 15 allowed.( Üó
+U
+java:S1854@":Remove this useless assignment to local variable "output".(‰š‹…ÿÿÿÿÿ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(¶°½Š
+d
+java:S1858ß"H"kName" is already a string, there's no need to call "toString()" on it.(…—¾øÿÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+R	java:S125ã"<This block of commented-out lines of code should be removed.(ªòÃ¥
+W	java:S125ú"<This block of commented-out lines of code should be removed.(¨¥Öçùÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+W	java:S125â"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+?	java:S108ş")Either remove or fill this block of code.(å¥‡
+W	java:S125†"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+W	java:S125à"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+D	java:S108Ò")Either remove or fill this block of code.(ÿçœûÿÿÿÿ
+D	java:S108Ô")Either remove or fill this block of code.(ÎšÌîüÿÿÿÿ
+W	java:S125è"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+D	java:S108ğ")Either remove or fill this block of code.(¤£•­øÿÿÿÿ
+>	java:S108ñ")Either remove or fill this block of code.(Ä£ëF
+W	java:S125ø"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(äòßøÿÿÿÿ
+W	java:S125ñ"<This block of commented-out lines of code should be removed.(äòßøÿÿÿÿ
+F	java:S106÷"+Replace this use of System.out by a logger.(îÈÛğÿÿÿÿÿ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(äòßøÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(Ä£ëF
+W	java:S125—"<This block of commented-out lines of code should be removed.(äòßøÿÿÿÿ
+A	java:S106¨"+Replace this use of System.out by a logger.(¶üÚ
+F	java:S106µ"+Replace this use of System.out by a logger.(‚ŞÙùıÿÿÿÿ
+F	java:S106¸"+Replace this use of System.out by a logger.(É±çåùÿÿÿÿ
+@	java:S106¼"+Replace this use of System.out by a logger.(Ö¸óG
+F	java:S106å"+Replace this use of System.out by a logger.(É±çåùÿÿÿÿ
+F	java:S106ê"+Replace this use of System.out by a logger.(×ËÚçşÿÿÿÿ
+A	java:S106í"+Replace this use of System.out by a logger.(±öì
+W	java:S125‡"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+F	java:S106º"+Replace this use of System.out by a logger.(Ğáª©øÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+F	java:S106Ì"+Replace this use of System.out by a logger.(ÚúŸ·øÿÿÿÿ
+A	java:S106Í"+Replace this use of System.out by a logger.(¶üÚ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+F	java:S106Ó"+Replace this use of System.out by a logger.(Ğáª©øÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿ
+F	java:S106æ"+Replace this use of System.out by a logger.(ı¢óŒüÿÿÿÿ

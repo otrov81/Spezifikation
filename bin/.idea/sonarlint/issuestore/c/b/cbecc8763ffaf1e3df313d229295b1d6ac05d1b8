@@ -1,0 +1,44 @@
+
+£
+java:S1488°"aImmediately return this expression instead of assigning it to the temporary variable "component".(í·¸ÚıÿÿÿÿJ$47323b2d-e18f-4118-836b-d527a7f87a91
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$8014f048-e78d-47b2-a45f-e795902cc1db
+—
+java:S1450"[Remove the "currentTheme" field and declare it as a local variable in the relevant methods.(¶Ÿ“ÉJ$461b5bc7-9f03-4919-ab17-04670c626235
+g
+java:S1948"+Make "dbService" transient or serializable.(¥šJ$63be5fe6-5e75-4852-a13d-8f40ba5403ac
+f
+java:S1948"*Make "menuInfo" transient or serializable.(ªÅºÃJ$c574929e-eb10-4b55-baa0-78537e268449
+j
+java:S1948")Make "addUser" transient or serializable.(©ÄªíúÿÿÿÿJ$63dba29a-7dfa-4ceb-8dcb-6427a8865710
+a
+java:S1948 "%Make "md5" transient or serializable.(»¸‡ÊJ$ae9fed3b-e7a8-4203-ba9d-2475ff497d05
+_
+java:S2440 "#Remove this instantiation of "MD5".(»¸‡ÊJ$fba6398d-dafb-4ac6-83a3-32030b3e9bed
+|	java:S125/"<This block of commented-out lines of code should be removed.(Á€ŠÅüÿÿÿÿJ$b93e4fb1-8319-402f-b518-85d87df538b5
+|	java:S1253"<This block of commented-out lines of code should be removed.(Ã„œÜùÿÿÿÿJ$95a5eb29-4d64-484a-8e59-d7495f200db5
+v
+java:S1161d":Add the "@Override" annotation above this method signature(®¸ùJ$c59d4fc1-fae9-4c7c-af8b-e08aebf04239
+q
+java:S2209"5Change this instance-reference to a static reference.(²ˆÛ×J$1a6a05ba-72e1-4777-b72b-342a5cda61ac
+r
+java:S2209€"5Change this instance-reference to a static reference.(°™Ÿ‡J$757ba4af-4fc3-4e94-8117-966c755d76e2
+q
+java:S2209"5Change this instance-reference to a static reference.( »ûgJ$3bb0e963-6110-4a46-aaaf-3817c5bbfae3
+w
+java:S2209‚"5Change this instance-reference to a static reference.(µËºßúÿÿÿÿJ$db22e7a2-5ec8-4cd5-8634-0add2d0c9322
+w
+java:S2209ƒ"5Change this instance-reference to a static reference.(‘Ô»ûÿÿÿÿJ$0dfe1239-309f-4ede-8a44-de8af85a9185
+e	java:S108")Either remove or fill this block of code.(å¥‡J$fc0d0426-e995-40a2-a587-79db2f272132
+l
+java:S1068"0Remove this unused "currentTheme" private field.(¶Ÿ“ÉJ$9030d684-24b9-4634-ad94-f4159ec5c99a
+r
+java:S1068"1Remove this unused "userNameStyle" private field.(Ï÷›ÛÿÿÿÿÿJ$df2dad2f-15e7-4597-ac67-e76f334b3e91
+o
+java:S1068".Remove this unused "useridText" private field.(€ÏÕÿÿÿÿÿJ$e8055bd7-2428-4c18-a1b9-d541df51d51e
+q
+java:S1068"0Remove this unused "usernameText" private field.(÷¶­‘ùÿÿÿÿJ$72ee94fc-0cf4-4279-beab-b6410e48216a
+q
+java:S1068"0Remove this unused "passwordText" private field.(Şô­¸ÿÿÿÿÿJ$eab747f4-aa5a-432a-a402-69eea4938906
+u
+java:S1068"4Remove this unused "berechtigungText" private field.(Éµ´¨üÿÿÿÿJ$e66a195c-96d4-4edf-8f4f-42b2acad96cd

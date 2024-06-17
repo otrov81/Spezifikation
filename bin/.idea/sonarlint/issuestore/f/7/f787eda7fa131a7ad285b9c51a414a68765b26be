@@ -1,0 +1,21 @@
+
+
+java:S1192J"LDefine a constant instead of duplicating this literal "align label" 3 times.(€çÌş8Øñ®‡î1J$6d68d1d5-9808-450d-a9f1-28e91ee098cc
+™	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¸æËùÿÿÿÿ8Úñ®‡î1J$2a1ae776-384b-4b39-8cb5-89c4df922056
+q
+java:S1604„"(Make this anonymous inner class a lambda(Á¼úóùÿÿÿÿ8Ûñ®‡î1J$bff94bbc-2ff0-4c9b-8907-f6c36fcda4a6
+q
+java:S1604"(Make this anonymous inner class a lambda(Åİü•ıÿÿÿÿ8Ûñ®‡î1J$90271b85-919d-4699-bee3-1bbd1e384293
+ª
+java:S1488–"aImmediately return this expression instead of assigning it to the temporary variable "component".(í·¸Úıÿÿÿÿ8İñ®‡î1J$9e7a26b7-c874-4ece-a0ca-708594da48f6
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ğñ®‡î1J$13715857-883b-4ce3-9501-75f74b0f4bf2
+œ
+java:S1450"TRemove the "table" field and declare it as a local variable in the relevant methods.(ÑÂÿÿÿÿÿ8òñ®‡î1J$d149ba88-e7b0-4de7-97de-fbedac479707
+~	java:S125,"<This block of commented-out lines of code should be removed.(•ÁáÃ8ıñ®‡î1J$933cd6b5-d80b-4491-bf1e-f8b5848d0c16
+~	java:S1254"<This block of commented-out lines of code should be removed.(Â‚„8şñ®‡î1J$8e2a51ad-04e3-432a-8a6c-b3cbdf0f650e
+ƒ	java:S125U"<This block of commented-out lines of code should be removed.(´ù€îüÿÿÿÿ8‚ò®‡î1J$b7b7192b-e1a2-4d9a-bc5d-d5f2f319798b
+~	java:S125j"<This block of commented-out lines of code should be removed.(äÀí¢8…ò®‡î1J$da8313ca-7e71-40c7-b8d6-48a12c720735
+~
+java:S1161":Add the "@Override" annotation above this method signature(®¸ù8‘ò®‡î1J$e9623216-c0d0-4393-8912-d779d1c58bed
+l	java:S108„")Either remove or fill this block of code.(å¥‡8Ÿò®‡î1J$dbabbf82-fc69-4818-9119-3f11d741aeed

@@ -1,0 +1,60 @@
+
+”
+java:S1192¡"KDefine a constant instead of duplicating this literal "Left Align" 4 times.(¬öÁ ÿÿÿÿÿ8òá—¬2J$4d794fea-729e-45f3-840e-dd8926a7e2b0
+•
+java:S1192£"LDefine a constant instead of duplicating this literal "Right Align" 5 times.(“ÛƒÉÿÿÿÿÿ8Ó¦óÏğ1J$f37488a6-e190-46c5-a9ff-2fbe14abd2f5
+
+java:S1192¢"GDefine a constant instead of duplicating this literal "Center" 4 times.(ØÃ´çÿÿÿÿÿ8Ó¦óÏğ1J$bc143881-b319-4e65-a030-98743b178cf4
+…
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ8¨óÏğ1J$d35d952a-4c37-424e-828a-10a05250c6d5
+š
+java:S1450*"WRemove the "userInfo" field and declare it as a local variable in the relevant methods.(ÙÁîÿ8ˆ¨óÏğ1J$8162f8df-bb3e-44e7-aa62-06bc2269deb0
+n
+java:S1948#"+Make "dbService" transient or serializable.(¥š8Š¨óÏğ1J$2d4aefb1-9e14-4f5f-87d7-a547cef899b8
+m
+java:S1948%"*Make "menuInfo" transient or serializable.(ªÅºÃ8Š¨óÏğ1J$11f486d1-9f14-418a-b519-49afbac9a1f3
+m
+java:S1948*"*Make "userInfo" transient or serializable.(ÙÁîÿ8Š¨óÏğ1J$8a163b4d-83bb-4b8c-8884-0a06285aaf33
+u
+java:S1948-"-Make "undoHandler" transient or serializable.(ÙÌ­ëıÿÿÿÿ8Š¨óÏğ1J$0d582b3f-b4da-4511-81df-3338eccf5e02
+n
+java:S19483"+Make "cutAction" transient or serializable.(æş¤É8‘¨óÏğ1J$4cf9664d-bf19-4e4e-a129-87c554dc3d3b
+t
+java:S19484",Make "copyAction" transient or serializable.(×¢Óøÿÿÿÿ8¡¨óÏğ1J$ac27bf23-dcc9-4900-96e3-4811074d93b9
+p
+java:S19485"-Make "pasteAction" transient or serializable.(ü¹äõ8¡¨óÏğ1J$ba73be85-7e8a-4a49-a920-adb1a3780407
+o
+java:S19486",Make "boldAction" transient or serializable.(©¡åÙ8¡¨óÏğ1J$4979c44c-7205-4076-bced-0fc99bbb479b
+y
+java:S19487"1Make "underlineAction" transient or serializable.(£™Åîûÿÿÿÿ8¡¨óÏğ1J$d03d3e4f-98de-4926-8142-b963f57265de
+v
+java:S19488".Make "italicAction" transient or serializable.(²«ˆûıÿÿÿÿ8¡¨óÏğ1J$8367ebd0-37ac-45b8-8af4-9faec52e359b
+v
+java:S19489"3Make "insertBreakAction" transient or serializable.(ÌúÚ8¡¨óÏğ1J$b9c846e6-c7f5-45e2-9783-7393a64d8cc4
+|
+java:S1144¾"8Remove this unused private "getHTMLFromTextPane" method.(œä¢µ8ûá—¬2J$3d0d67c8-1010-4d23-bf51-740b85414268
+m	java:S106F"+Replace this use of System.err by a logger.(ÚÄµ×8«¨óÏğ1J$c5d6ace9-fd7e-4c31-bca6-c437db5fb2fd
+	java:S125Š"<This block of commented-out lines of code should be removed.(Â‚„8‹â—¬2J$7ad5df16-e832-400f-bf49-4dc0630569f1
+n	java:S106ì"+Replace this use of System.out by a logger.(ø³ÜÃ8Éñ”¬2J$29a884ce-58e5-43be-b2ef-21c885ece58d
+n	java:S106÷"+Replace this use of System.out by a logger.(œËèö8Éñ”¬2J$795c2756-beb7-4eae-96b3-11d796e4359f
+~	java:S125ˆ"<This block of commented-out lines of code should be removed.(™ºÄ}8šâ—¬2J$d6e540c4-f562-4469-9e54-2a850883ecf6
+	java:S125“"<This block of commented-out lines of code should be removed.(½æ‡ı8šâ—¬2J$0946ceb0-2b8c-438f-9c04-0400f0c30cbb
+p
+java:S1874•",Remove this use of "show"; it is deprecated.(”ô¸ï8›â—¬2J$5714b85d-46f8-424e-ae42-40734881abee
+s	java:S106"+Replace this use of System.out by a logger.(ó±İœşÿÿÿÿ8Éñ”¬2J$a5188385-c00c-45e7-8e59-73d9a9553199
+s	java:S106Ÿ"+Replace this use of System.out by a logger.(ıß‘ìÿÿÿÿÿ8›â—¬2J$4bf9d78a-0954-4edd-89f4-6ec8931ae547
+n	java:S106 "+Replace this use of System.out by a logger.(¹‰ìµ8›â—¬2J$ec602b84-22f4-4f6c-affb-722899cf010c
+n	java:S106¡"+Replace this use of System.out by a logger.(«µØì8›â—¬2J$a55a8bcb-0bd3-4c96-91f6-ba9a4a27ebf3
+q
+java:S1125½"(Remove the unnecessary boolean literals.(Ø¥Ö‚şÿÿÿÿ8Ÿâ—¬2J$ea921535-8c65-45d7-b9b4-7e888eb3014c
+l
+java:S1125Ï"(Remove the unnecessary boolean literals.(¡²øÚ8¡â—¬2J$b6f731fc-13c2-42b0-8978-43b46daf8fa5
+q
+java:S1125â"(Remove the unnecessary boolean literals.(Ğ¬şÿÿÿÿ8£â—¬2J$508d84cc-0773-4283-9a1a-9da47dfd62de
+u
+java:S2692î"10 is a valid index, but is ignored by this check.(ªúÃ8¤â—¬2J$8490cb81-4bce-483e-bbf5-d70ca395b08e
+n	java:S106"+Replace this use of System.out by a logger.(òøµ¢8§â—¬2J$bba9ea6d-abe9-499a-bd9b-9e58a7c5e74f
+n	java:S106ª"+Replace this use of System.err by a logger.(˜¹­Á8ªâ—¬2J$599cee3b-01bd-47c2-a9ac-162d29b76150
+„	java:S125Ã"<This block of commented-out lines of code should be removed.(µ¬ªıÿÿÿÿ8¬â—¬2J$e607eae4-5911-4333-a966-df31db73394d
+r
+java:S1068)"/Remove this unused "currentFile" private field.(Àû¢Ò8’©óÏğ1J$64e5004a-d727-4500-a873-6d3dd88079c2

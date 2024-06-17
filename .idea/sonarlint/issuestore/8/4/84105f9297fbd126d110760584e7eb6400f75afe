@@ -1,0 +1,12 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ºâÓğ1J$783457c1-1765-4030-aa72-6f5d0676ec7c
+¢
+java:S1450""ZRemove the "txtPassword" field and declare it as a local variable in the relevant methods.(ŸÓŒÔûÿÿÿÿ8ƒºâÓğ1J$a7df307d-1012-4056-b2a5-cc4ef8cfdc2e
+¢
+java:S1450!"ZRemove the "txtUsername" field and declare it as a local variable in the relevant methods.(”ƒĞŠûÿÿÿÿ8ƒºâÓğ1J$394fb5cc-b21b-4be6-bb2f-ed0ab36a14cd
+š
+java:S1450%"WRemove the "userInfo" field and declare it as a local variable in the relevant methods.(ÙÁîÿ8ƒºâÓğ1J$da1e9c65-91c6-476f-ac4a-23363f7014ac
+y
+java:S2696l"6Make the enclosing method "static" or remove this set.(º²ñş8—ºâÓğ1J$cb94efbe-c051-4a01-9180-d9cf55ba43ff
+]	java:S125y"<This block of commented-out lines of code should be removed.(Ô ÓÔûÿÿÿÿ8ˆ©¡·2

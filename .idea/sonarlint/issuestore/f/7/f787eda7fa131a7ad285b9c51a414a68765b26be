@@ -1,0 +1,62 @@
+
+q
+java:S1604¤"(Make this anonymous inner class a lambda(Á¼úóùÿÿÿÿ8Áë²¬2J$3fe1566c-8044-42ba-9854-e1a816e32822
+q
+java:S1604¬"(Make this anonymous inner class a lambda(Åİü•ıÿÿÿÿ8Áë²¬2J$9d4e7ccf-b053-4f1f-8396-6b869d2689f7
+™	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¸æËùÿÿÿÿ8¿®®¬2J$1293733e-a917-4027-a5da-7d7c66396a03
+Î
+java:S1862©"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(ôŞ°ôùÿÿÿÿ8À®®¬2J$f16256bb-9b45-4f1c-bb1f-28b7f2def98b
+Î
+java:S1862«"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(Ñ¯§™şÿÿÿÿ8À®®¬2J$6b2cff39-5420-40de-ac85-bc8005934d72
+Î
+java:S1862­"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(Î—Ä²ûÿÿÿÿ8À®®¬2J$858334e5-273d-4772-a5b3-a4daf0fc6233
+É
+java:S1862¯"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(áæ½8À®®¬2J$51734b4e-8cb3-4a73-9cc7-1809d2c2e162
+É
+java:S1862±"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(–ç¥€8À®®¬2J$bd21d124-b691-4ed1-98b8-75f1024c1bbf
+ª
+java:S1488á"aImmediately return this expression instead of assigning it to the temporary variable "component".(í·¸Úıÿÿÿÿ8Á®®¬2J$d3850590-9059-4e98-bdd9-95a7ea623e3a
+”
+java:S1192Ã"KDefine a constant instead of duplicating this literal "Schluessel" 3 times.(ıÅË¸ıÿÿÿÿ8Çë²¬2J$8bd887a0-4be5-43da-a40c-93a3ea21a749
+’
+java:S1192Æ"IDefine a constant instead of duplicating this literal "KundenNr" 4 times.(µ ±Õıÿÿÿÿ8Èë²¬2J$a2d0eb1b-5ad3-49a9-a3ab-0a39b1243e2d
+‘
+java:S1192É"HDefine a constant instead of duplicating this literal "Artikel" 4 times.(Æôñ›øÿÿÿÿ8Èë²¬2J$a90616ba-ccaf-4e52-a278-21072902ddd7
+Š
+java:S1192È"FDefine a constant instead of duplicating this literal "ArtNr" 4 times.(ûÏœÙ8Èë²¬2J$8eff94c7-0029-41ac-a553-27623f1f51ad
+
+java:S1192O"LDefine a constant instead of duplicating this literal "align label" 3 times.(€çÌş8Èë²¬2J$4f306d07-1a02-4be2-bcaf-956c96dcb5a2
+
+java:S1192Ç"GDefine a constant instead of duplicating this literal "Kunden" 4 times.(Ç±½Šúÿÿÿÿ8Èë²¬2J$96ad36a0-e614-4a4b-918a-e5434f7f9b7b
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¡í£¬2J$359ebda4-c001-4ef5-a6a2-1251b1bf694c
+š
+java:S1450 "WRemove the "userInfo" field and declare it as a local variable in the relevant methods.(ÙÁîÿ8ƒ«²Ùğ1J$92311d1c-a935-4f46-a0ba-81daa14d2377
+n
+java:S1948"+Make "dbService" transient or serializable.(¥š8£í£¬2J$fb7ab6da-1c9a-4994-b98c-d18a94575894
+m
+java:S1948"*Make "menuInfo" transient or serializable.(ªÅºÃ8„«²Ùğ1J$977d9cec-e4d2-4119-a371-9b6cd5e7042a
+m
+java:S1948 "*Make "userInfo" transient or serializable.(ÙÁîÿ8„«²Ùğ1J$c2456f4e-d704-4693-8768-cfa401a951c4
+r
+java:S1948!"*Make "excelPOI" transient or serializable.(´‰Úçøÿÿÿÿ8Ü­µ¶2J$ab6bfff5-a049-4ead-8293-c385adde1985
+~
+java:S1161¼":Add the "@Override" annotation above this method signature(®¸ù8âë²¬2J$b862af27-e9fb-4a4e-8d33-db2d84ac6c35
+›
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(üÇ²¿şÿÿÿÿ8çë²¬2J$3f625b82-db42-4568-851d-f2a2eb699384
+~
+java:S2209·"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8è®®¬2J$fdd19d27-b241-417a-bd5d-a3839245db64
+y
+java:S2209¸"5Change this instance-reference to a static reference.(·°Şğ8è®®¬2J$89acc625-82d6-4e93-9911-a258bb879098
+y
+java:S2209¹"5Change this instance-reference to a static reference.(åô÷£8é®®¬2J$0e5e1707-bb45-4695-aa75-6880c5749b42
+~
+java:S2209º"5Change this instance-reference to a static reference.(ú¼­¶ıÿÿÿÿ8é®®¬2J$dc9930b8-9ff9-4162-8f6b-43580fd6c961
+y
+java:S2209»"5Change this instance-reference to a static reference.(çÿØç8é®®¬2J$ae15376a-fb5f-4e4f-a418-26b1b5176de9
+~
+java:S2209¼"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8é®®¬2J$f480e502-4c14-48a4-9de6-92831e3e3660
+~
+java:S2209½"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8é®®¬2J$7aea0a46-0662-4b8d-b80f-89271322c1a3
+
+java:S6541ô"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 66 to 64, Complexity from 19 to 14, Nesting Level from 4 to 2, Number of Variables from 18 to 6.(ùû†¢úÿÿÿÿ8÷ë²¬2J$93dc5801-9bce-4d6a-b7d2-f227684036c2

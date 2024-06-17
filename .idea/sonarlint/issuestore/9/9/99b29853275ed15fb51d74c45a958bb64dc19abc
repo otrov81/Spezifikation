@@ -1,0 +1,344 @@
+
+p
+java:S3740!"/Provide the parametrized type for this generic.(Àì ±øÿÿÿÿJ$fa8ddcda-a584-438f-aa50-23be68aa15e7
+Š
+java:S1192ğ"HDefine a constant instead of duplicating this literal "split 2" 4 times.(Ş¼Ã´ûÿÿÿÿJ$e80a9e71-9604-403f-907a-926dcff48d7e
+
+java:S1192ê"`Define a constant instead of duplicating this literal "Kundennummer existiert nicht!!!" 3 times.(óÆ¦’J$6a7736f3-b620-4c4f-9ff1-2f7e7cdf8182
+Ÿ
+java:S1192Â"]Define a constant instead of duplicating this literal "Bitte LÃ¤ndercode eintragen!" 3 times.(ëîè†ùÿÿÿÿJ$005bf031-2d6e-400d-8c29-4e0049e5ff35
+Œ
+java:S1192³"ODefine a constant instead of duplicating this literal "Eingabefehler" 26 times.(ëÉëäJ$0c8d50d6-fc3d-477e-b360-0f5cdb752691
+›
+java:S1192œ"^Define a constant instead of duplicating this literal "Bitte Kundennummer eintragen!" 4 times.(ïæ—âJ$28647fbf-ad9c-415f-a7e9-bd34251297b2
+‹
+java:S1192¯"IDefine a constant instead of duplicating this literal "Vorlage" 13 times.(± ŸıÿÿÿÿJ$2125dc39-1ccc-415d-a241-5925631f220b
+
+java:S1192¸"\Define a constant instead of duplicating this literal "Bitte Sprachcode eintragen!" 7 times.(’¯ÎËøÿÿÿÿJ$e599f44b-6fe3-477b-8b3a-df7c2a0b7eba
+Œ
+java:S1192±"JDefine a constant instead of duplicating this literal "Abbrechen" 4 times.(ÂÆ¨œøÿÿÿÿJ$a7707c72-bd9c-44c0-80a7-00dd94e6e39e
+¡
+java:S1192Æ"_Define a constant instead of duplicating this literal "Bitte Artikelnummer eintragen!" 4 times.(‘–™ÍúÿÿÿÿJ$44a04e62-e0f5-4996-99d7-d41bba762803
+j
+java:S5411“"(Use a primitive boolean expression here.(³è©“úÿÿÿÿJ$a5941598-39ca-456f-a071-22e03dacb76a
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë€–PJ$82906010-5f65-48cd-a9ce-2f81cb01e205
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$c7fa56d8-402f-47d4-8094-222d64285b5e
+—
+java:S1450*"[Remove the "btnSpeziEdit" field and declare it as a local variable in the relevant methods.(ÒäåJ$5fd8b554-3aa8-429e-bca1-d86ab28a9523
+˜
+java:S1450"WRemove the "textList" field and declare it as a local variable in the relevant methods.(Û·äøÿÿÿÿJ$4d7c96d9-caeb-4acb-af09-5fdf08fefabe
+œ
+java:S1450)"[Remove the "textListLand" field and declare it as a local variable in the relevant methods.(Ê«¡çüÿÿÿÿJ$e9e5e663-f47e-4aaf-b9a4-6496261740bb
+—
+java:S1450"[Remove the "textListSpcd" field and declare it as a local variable in the relevant methods.(¹†ôJ$0db15a80-bd7e-4e80-89e8-341ccf1334c4
+H
+java:S1948"+Make "dbService" transient or serializable.(¥š8ŒÇ±î1
+G
+java:S1948"*Make "menuInfo" transient or serializable.(ªÅºÃ8‘ŒÇ±î1
+G
+java:S1948,"*Make "userInfo" transient or serializable.(ÙÁîÿ8‘ŒÇ±î1
+
+java:S3776?"SRefactor this method to reduce its Cognitive Complexity from 273 to the 15 allowed.( ÜóJ$728a6363-569f-4293-b7f3-6846b3a02dc9
+{
+java:S1854@":Remove this useless assignment to local variable "output".(‰š‹…ÿÿÿÿÿJ$50e74e58-9c84-472d-908c-fd899da05fb2
+ƒ	java:S125J"<This block of commented-out lines of code should be removed.(Ã„œÜùÿÿÿÿ8ş«Ó°î1J$b90ccfeb-0c2a-4883-86b2-db800c42285e
+X	java:S125Q"<This block of commented-out lines of code should be removed.(‘»¬8ªÂÓ°î1
+e
+java:S6201m"HReplace this instanceof check and cast with 'instanceof SpeziSa speziSa'(Ş…³©8¶ŒÇ±î1
+o
+java:S6201œ"LReplace this instanceof check and cast with 'instanceof SpeziSpcd speziSpcd'(™í±Çùÿÿÿÿ8½ŒÇ±î1
+x	java:S125Ç"<This block of commented-out lines of code should be removed.(¶°½ŠJ$3e3fc9a6-c525-4636-98b9-a0ba4e43db8b
+Š
+java:S1858ß"H"kName" is already a string, there's no need to call "toString()" on it.(…—¾øÿÿÿÿÿJ$c337b1c0-27dd-46e7-ac35-af2874a1dd9a
+}	java:S125á"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿJ$3daf7283-ce8f-4fb4-88c7-6189464b363a
+x	java:S125ã"<This block of commented-out lines of code should be removed.(ªòÃ¥J$df406242-4eff-46b6-a205-a04bdd67d71d
+}	java:S125ú"<This block of commented-out lines of code should be removed.(¨¥ÖçùÿÿÿÿJ$40e3d9f9-4623-46c7-a9b2-d07d15c6e05a
+X
+java:S2209Ô"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8ÖŒÇ±î1
+S
+java:S2209Õ"5Change this instance-reference to a static reference.(·°Şğ8×ŒÇ±î1
+S
+java:S2209Ö"5Change this instance-reference to a static reference.(åô÷£8ØŒÇ±î1
+S
+java:S2209Ø"5Change this instance-reference to a static reference.(İÉì÷8ØŒÇ±î1
+}	java:S125×"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$e8b9e457-2f21-42e3-b589-fa0269ad07ea
+X
+java:S2209Ù"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8ÙŒÇ±î1
+X
+java:S2209Ú"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8ÙŒÇ±î1
+X
+java:S2209ß"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8ÚŒÇ±î1
+S
+java:S2209à"5Change this instance-reference to a static reference.(·°Şğ8ÚŒÇ±î1
+S
+java:S2209á"5Change this instance-reference to a static reference.(åô÷£8ÛŒÇ±î1
+S
+java:S2209ã"5Change this instance-reference to a static reference.(İÉì÷8ÛŒÇ±î1
+}	java:S125â"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$bb4397e8-5327-49a4-8794-8c561230b1a4
+X
+java:S2209ä"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8ÜŒÇ±î1
+X
+java:S2209å"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8ÜŒÇ±î1
+X
+java:S2209ô"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8ŞŒÇ±î1
+S
+java:S2209õ"5Change this instance-reference to a static reference.(·°Şğ8ßŒÇ±î1
+S
+java:S2209ö"5Change this instance-reference to a static reference.(åô÷£8àŒÇ±î1
+S
+java:S2209ø"5Change this instance-reference to a static reference.(İÉì÷8àŒÇ±î1
+}	java:S125÷"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$a6706d4a-de15-4d50-b39b-7470adf4b42a
+X
+java:S2209ù"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8áŒÇ±î1
+X
+java:S2209ú"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8âŒÇ±î1
+e	java:S108ş")Either remove or fill this block of code.(å¥‡J$d2e6cbcc-2f3d-4728-920c-e01af3cf96b9
+X
+java:S2209ƒ"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8åŒÇ±î1
+S
+java:S2209„"5Change this instance-reference to a static reference.(·°Şğ8æŒÇ±î1
+S
+java:S2209…"5Change this instance-reference to a static reference.(åô÷£8çŒÇ±î1
+S
+java:S2209‡"5Change this instance-reference to a static reference.(İÉì÷8çŒÇ±î1
+}	java:S125†"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$318627e3-169a-4369-b02d-ae9799fa458f
+X
+java:S2209ˆ"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8èŒÇ±î1
+X
+java:S2209‰"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8éŒÇ±î1
+X
+java:S2209İ"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8îŒÇ±î1
+S
+java:S2209Ş"5Change this instance-reference to a static reference.(·°Şğ8îŒÇ±î1
+S
+java:S2209ß"5Change this instance-reference to a static reference.(åô÷£8ïŒÇ±î1
+S
+java:S2209á"5Change this instance-reference to a static reference.(İÉì÷8ïŒÇ±î1
+}	java:S125à"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$bff80f06-9559-43da-9ef3-6f911553ad68
+X
+java:S2209â"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8ğŒÇ±î1
+X
+java:S2209ã"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8ğŒÇ±î1
+X
+java:S2209›"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8òŒÇ±î1
+S
+java:S2209œ"5Change this instance-reference to a static reference.(·°Şğ8óŒÇ±î1
+S
+java:S2209"5Change this instance-reference to a static reference.(åô÷£8óŒÇ±î1
+S
+java:S2209Ÿ"5Change this instance-reference to a static reference.(İÉì÷8óŒÇ±î1
+}	java:S125"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$6cfb5da7-3cba-493e-8e49-5008bccc8c98
+X
+java:S2209 "5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8ôŒÇ±î1
+X
+java:S2209¡"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8õŒÇ±î1
+X
+java:S2209°"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8÷ŒÇ±î1
+S
+java:S2209±"5Change this instance-reference to a static reference.(·°Şğ8øŒÇ±î1
+S
+java:S2209²"5Change this instance-reference to a static reference.(åô÷£8øŒÇ±î1
+S
+java:S2209´"5Change this instance-reference to a static reference.(İÉì÷8ùŒÇ±î1
+}	java:S125³"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$ddcca3f6-1211-48c1-ac57-bd3740fe4376
+X
+java:S2209µ"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8úŒÇ±î1
+X
+java:S2209¶"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8úŒÇ±î1
+X
+java:S2209É"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8üŒÇ±î1
+S
+java:S2209Ê"5Change this instance-reference to a static reference.(·°Şğ8üŒÇ±î1
+S
+java:S2209Ë"5Change this instance-reference to a static reference.(åô÷£8ıŒÇ±î1
+S
+java:S2209Í"5Change this instance-reference to a static reference.(İÉì÷8ıŒÇ±î1
+}	java:S125Ì"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$c6c897e0-bf2a-4170-8c2c-866a69d45ff5
+X
+java:S2209Î"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8ıŒÇ±î1
+X
+java:S2209Ï"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8şŒÇ±î1
+j	java:S108Ò")Either remove or fill this block of code.(ÿçœûÿÿÿÿJ$31260f61-20c9-459a-b145-4e15322a9826
+j	java:S108Ô")Either remove or fill this block of code.(ÎšÌîüÿÿÿÿJ$c2073d85-2689-4a83-8897-937029519b40
+X
+java:S2209å"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8ÿŒÇ±î1
+S
+java:S2209æ"5Change this instance-reference to a static reference.(·°Şğ8€Ç±î1
+S
+java:S2209ç"5Change this instance-reference to a static reference.(åô÷£8€Ç±î1
+S
+java:S2209é"5Change this instance-reference to a static reference.(İÉì÷8Ç±î1
+}	java:S125è"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$57c87295-5bb1-4c5c-abad-1171900f2070
+X
+java:S2209ê"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8‚Ç±î1
+X
+java:S2209ë"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8‚Ç±î1
+j	java:S108ğ")Either remove or fill this block of code.(¤£•­øÿÿÿÿJ$4efdaa9c-7b55-415e-b666-d2be956a59e3
+d	java:S108ñ")Either remove or fill this block of code.(Ä£ëFJ$8aae5436-8b25-4e01-bcd1-8234587daab8
+X
+java:S2209õ"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8„Ç±î1
+S
+java:S2209ö"5Change this instance-reference to a static reference.(·°Şğ8„Ç±î1
+S
+java:S2209÷"5Change this instance-reference to a static reference.(åô÷£8…Ç±î1
+S
+java:S2209ù"5Change this instance-reference to a static reference.(İÉì÷8…Ç±î1
+}	java:S125ø"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$c40d79bc-6210-435d-ae7c-8e7982c7f2c7
+X
+java:S2209ú"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8…Ç±î1
+X
+java:S2209û"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8†Ç±î1
+X
+java:S2209Õ"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8ŠÇ±î1
+S
+java:S2209Ö"5Change this instance-reference to a static reference.(·°Şğ8‹Ç±î1
+S
+java:S2209×"5Change this instance-reference to a static reference.(åô÷£8‹Ç±î1
+X
+java:S2209Ø"5Change this instance-reference to a static reference.(ş¹®Öùÿÿÿÿ8ŒÇ±î1
+X
+java:S2209Ú"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8ŒÇ±î1
+}	java:S125Ù"<This block of commented-out lines of code should be removed.(äòßøÿÿÿÿJ$5635154d-0325-46de-b46d-4627900ba184
+X
+java:S2209Û"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8Ç±î1
+X
+java:S2209í"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8Ç±î1
+S
+java:S2209î"5Change this instance-reference to a static reference.(·°Şğ8Ç±î1
+S
+java:S2209ï"5Change this instance-reference to a static reference.(åô÷£8Ç±î1
+X
+java:S2209ğ"5Change this instance-reference to a static reference.(ş¹®Öùÿÿÿÿ8Ç±î1
+X
+java:S2209ò"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8Ç±î1
+}	java:S125ñ"<This block of commented-out lines of code should be removed.(äòßøÿÿÿÿJ$b406023f-db56-4add-9eba-35d74bc6de92
+X
+java:S2209ó"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8Ç±î1
+l	java:S106÷"+Replace this use of System.out by a logger.(îÈÛğÿÿÿÿÿJ$c88671ac-c495-4892-8117-7ce010428c7c
+X
+java:S2209„"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8“Ç±î1
+S
+java:S2209…"5Change this instance-reference to a static reference.(·°Şğ8”Ç±î1
+S
+java:S2209†"5Change this instance-reference to a static reference.(åô÷£8”Ç±î1
+X
+java:S2209‡"5Change this instance-reference to a static reference.(ş¹®Öùÿÿÿÿ8”Ç±î1
+X
+java:S2209‰"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8•Ç±î1
+}	java:S125ˆ"<This block of commented-out lines of code should be removed.(äòßøÿÿÿÿJ$56076264-de53-49ec-9e05-1840807ade53
+X
+java:S2209Š"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8•Ç±î1
+d	java:S108")Either remove or fill this block of code.(Ä£ëFJ$c3dce01e-fd2d-4d5a-8d35-8732c26c06af
+X
+java:S2209“"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8–Ç±î1
+S
+java:S2209”"5Change this instance-reference to a static reference.(·°Şğ8—Ç±î1
+S
+java:S2209•"5Change this instance-reference to a static reference.(åô÷£8—Ç±î1
+X
+java:S2209–"5Change this instance-reference to a static reference.(ú¼­¶ıÿÿÿÿ8˜Ç±î1
+X
+java:S2209˜"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8˜Ç±î1
+}	java:S125—"<This block of commented-out lines of code should be removed.(äòßøÿÿÿÿJ$018a60b8-8782-4d1c-8053-710d71e84d9b
+X
+java:S2209™"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8˜Ç±î1
+g	java:S106¨"+Replace this use of System.out by a logger.(¶üÚJ$06d60ac6-a59c-4946-a663-ac85299d6fca
+l	java:S106µ"+Replace this use of System.out by a logger.(‚ŞÙùıÿÿÿÿJ$3c8e262b-1d1b-43de-9fa6-2c95c264d8d5
+l	java:S106¸"+Replace this use of System.out by a logger.(É±çåùÿÿÿÿJ$090b2021-5f8c-4dcf-b5a5-2ddc23d85ef8
+f	java:S106¼"+Replace this use of System.out by a logger.(Ö¸óGJ$14b1d119-7615-40fe-a766-61a6b72adea8
+l	java:S106å"+Replace this use of System.out by a logger.(É±çåùÿÿÿÿJ$47a56da6-cb0b-46f4-8ba2-a839b8419eef
+l	java:S106ê"+Replace this use of System.out by a logger.(×ËÚçşÿÿÿÿJ$caf66ecf-8ae9-46e3-978f-7113dad381cd
+g	java:S106í"+Replace this use of System.out by a logger.(±öìJ$bc699e1f-6aa1-4766-bcc2-aa83e1f8cf03
+X
+java:S2209„"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8£Ç±î1
+S
+java:S2209…"5Change this instance-reference to a static reference.(·°Şğ8¤Ç±î1
+S
+java:S2209†"5Change this instance-reference to a static reference.(åô÷£8¤Ç±î1
+X
+java:S2209‰"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8¥Ç±î1
+}	java:S125‡"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$6605775b-7cbd-4b93-8e75-e3b81fea86f7
+X
+java:S2209Š"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8¥Ç±î1
+X
+java:S2209™"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8§Ç±î1
+S
+java:S2209š"5Change this instance-reference to a static reference.(·°Şğ8§Ç±î1
+S
+java:S2209›"5Change this instance-reference to a static reference.(åô÷£8§Ç±î1
+X
+java:S2209"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8§Ç±î1
+}	java:S125œ"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$12a8630f-f44b-4ce2-9384-4fe93fc2d792
+X
+java:S2209Ÿ"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8¨Ç±î1
+X
+java:S2209®"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8©Ç±î1
+S
+java:S2209¯"5Change this instance-reference to a static reference.(·°Şğ8©Ç±î1
+S
+java:S2209°"5Change this instance-reference to a static reference.(åô÷£8ªÇ±î1
+X
+java:S2209³"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8ªÇ±î1
+}	java:S125±"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$f36f5454-791a-4fe2-b4f8-41f7e53f7490
+X
+java:S2209´"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8ªÇ±î1
+l	java:S106º"+Replace this use of System.out by a logger.(Ğáª©øÿÿÿÿJ$f3aba876-4fd6-4a00-8c53-5ba76e95a189
+X
+java:S2209»"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8«Ç±î1
+S
+java:S2209¼"5Change this instance-reference to a static reference.(·°Şğ8¬Ç±î1
+S
+java:S2209½"5Change this instance-reference to a static reference.(åô÷£8¬Ç±î1
+X
+java:S2209À"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8¬Ç±î1
+}	java:S125¾"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$90e826b0-864f-4e1b-bc66-0dcf3d0ea816
+X
+java:S2209Á"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8­Ç±î1
+l	java:S106Ì"+Replace this use of System.out by a logger.(ÚúŸ·øÿÿÿÿJ$1dace03a-07d1-42d0-9681-2767d1c87ede
+g	java:S106Í"+Replace this use of System.out by a logger.(¶üÚJ$e3277ed7-bf44-4dd6-aa22-3edfb0970424
+X
+java:S2209"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8²Ç±î1
+S
+java:S2209Ÿ"5Change this instance-reference to a static reference.(·°Şğ8²Ç±î1
+S
+java:S2209 "5Change this instance-reference to a static reference.(åô÷£8³Ç±î1
+X
+java:S2209£"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8³Ç±î1
+}	java:S125¡"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$107b821d-39ae-424f-89a2-1ac2710aea8e
+X
+java:S2209¤"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8³Ç±î1
+X
+java:S2209³"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8µÇ±î1
+S
+java:S2209´"5Change this instance-reference to a static reference.(·°Şğ8µÇ±î1
+S
+java:S2209µ"5Change this instance-reference to a static reference.(åô÷£8µÇ±î1
+X
+java:S2209·"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8¶Ç±î1
+X
+java:S2209¸"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8¶Ç±î1
+X
+java:S2209Ç"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8·Ç±î1
+S
+java:S2209È"5Change this instance-reference to a static reference.(·°Şğ8·Ç±î1
+S
+java:S2209É"5Change this instance-reference to a static reference.(åô÷£8¸Ç±î1
+X
+java:S2209Ì"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8¸Ç±î1
+}	java:S125Ê"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$547520fa-73bd-4989-a41f-21364fd7e2a3
+X
+java:S2209Í"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8¹Ç±î1
+l	java:S106Ó"+Replace this use of System.out by a logger.(Ğáª©øÿÿÿÿJ$01e8ce22-fcc3-4e89-99b2-6b990747f765
+X
+java:S2209Ô"5Change this instance-reference to a static reference.(ûàÊòüÿÿÿÿ8ºÇ±î1
+S
+java:S2209Õ"5Change this instance-reference to a static reference.(·°Şğ8ºÇ±î1
+S
+java:S2209Ö"5Change this instance-reference to a static reference.(åô÷£8ºÇ±î1
+X
+java:S2209Ù"5Change this instance-reference to a static reference.(¯×šıüÿÿÿÿ8»Ç±î1
+}	java:S125×"<This block of commented-out lines of code should be removed.(”Ø°¿ÿÿÿÿÿJ$0ebec4ec-f14d-4d77-9476-5a341ff205a5
+X
+java:S2209Ú"5Change this instance-reference to a static reference.(„Ü¶ªÿÿÿÿÿ8»Ç±î1
+l	java:S106æ"+Replace this use of System.out by a logger.(ı¢óŒüÿÿÿÿJ$4edba6db-1357-4724-b82d-f5199d128356

@@ -1,0 +1,44 @@
+
+
+java:S1192À"MDefine a constant instead of duplicating this literal "svg/save.svg" 4 times.(å¿µ—úÿÿÿÿJ$cfd60f4a-26a6-4652-8edd-560be7cd10c5
+ˆ
+java:S1192à"FDefine a constant instead of duplicating this literal "ERROR" 4 times.(Í¾±úÿÿÿÿJ$41dcf6f1-c293-41d2-9ec5-086af20b0f4b
+i
+java:S1604v"(Make this anonymous inner class a lambda(Ë­¦¦ÿÿÿÿÿJ$d60a2041-8f2f-4350-a75e-6bbe2240207d
+š
+java:S1104$"YMake fixedVariable a static final constant or non-public and provide accessors if needed.(ªë×ÖÿÿÿÿÿJ$d517c7b8-944e-4460-866b-fd1cb648eacd
+t
+java:S1444$"3Make this "public static fixedVariable" field final(ªë×ÖÿÿÿÿÿJ$d5e28c7d-30d1-4a23-ae26-7ed8ee7c0adb
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”âªÿÿÿÿÿJ$5098d12f-09a2-4ae5-8929-77aa29fdd1b9
+—
+java:S1450"[Remove the "textDropdown" field and declare it as a local variable in the relevant methods.(¿Ó¥ÛJ$727dd468-179c-48f5-8c50-f5626eeddf3d
+m
+java:S1948"*Make "menuInfo" transient or serializable.(ªÅºÃ8×“Ç±î1J$4cdf2b39-a6bd-43ec-a309-b5c3599780a6
+m
+java:S1948"*Make "textList" transient or serializable.(‰ŞË­8×“Ç±î1J$f7cf9a13-1c84-49f6-91d0-4a70874d26d4
+q
+java:S1948".Make "textDropdown" transient or serializable.(¿Ó¥Û8×“Ç±î1J$5412e169-2909-41b9-af74-aa0fa5cd7fb0
+m
+java:S1948 "*Make "userInfo" transient or serializable.(ÙÁîÿ8×“Ç±î1J$264a8864-13f7-4e70-a15b-0e18703f59e5
+
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.( ÜóJ$7a144727-ee59-481f-a636-e2e6ca0a5500
+~	java:S1256"<This block of commented-out lines of code should be removed.(¤íà‹8¡ÃÀ°î1J$9143be85-b607-48b6-a902-827a79091f99
+ƒ	java:S1259"<This block of commented-out lines of code should be removed.(Ã„œÜùÿÿÿÿ8„ÖÀ°î1J$40f5f75d-82f0-4420-85f6-de7d85f6db22
+ƒ	java:S125@"<This block of commented-out lines of code should be removed.(Ã„œÜùÿÿÿÿ8óñÀ°î1J$a2af8c8e-9f84-4b08-aec6-3be9955228c1
+•
+java:S6201l"RReplace this instanceof check and cast with 'instanceof SpeziTextart speziTextart'(Ø½’ƒ8ï“Ç±î1J$4f5b6c09-e004-480d-a93e-fb47b25b1674
+X
+java:S2696|"6Make the enclosing method "static" or remove this set.(¡”©ÿÿÿÿÿ8Ò–­ºõ1
+	java:S125‰"<This block of commented-out lines of code should be removed.(›šµ8ë¥Á°î1J$0496fb28-8259-4f88-8ade-0bbf7a854304
+Y
+java:S2696Ë"6Make the enclosing method "static" or remove this set.(×Ã¹ºøÿÿÿÿ8ß–­ºõ1
+e	java:S108Ú")Either remove or fill this block of code.(å¥‡J$6c246534-0cf5-4e89-987a-8d0fddb6af51
+l	java:S106—"+Replace this use of System.out by a logger.(èÜúÿÿÿÿJ$3de144c2-7de4-4b26-a694-a332e8d8b2ca
+Y
+java:S2696›"6Make the enclosing method "static" or remove this set.(×Ã¹ºøÿÿÿÿ8é–­ºõ1
+g	java:S106¢"+Replace this use of System.out by a logger.(ûıä›J$375a129e-4c67-42e1-b47b-073bc1f919e1
+Y
+java:S2696–"6Make the enclosing method "static" or remove this set.(×Ã¹ºøÿÿÿÿ8ö–­ºõ1
+e	java:S108¤")Either remove or fill this block of code.(å¥‡J$4078aebc-a033-43e6-ae13-12b3b42524b6
+Y
+java:S2696è"6Make the enclosing method "static" or remove this set.(×Ã¹ºøÿÿÿÿ8ş–­ºõ1

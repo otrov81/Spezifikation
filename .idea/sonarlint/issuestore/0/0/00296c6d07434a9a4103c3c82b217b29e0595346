@@ -1,0 +1,15 @@
+
+}
+java:S1141U"5Extract this nested try block into a separate method.(çÆ«±ıÿÿÿÿ8½İÒ¶2J$136a28ee-b2da-4ba8-897a-bc5d1cfbfd91
+n
+java:S1874!",Remove this use of "exec"; it is deprecated.(šÁª+8ô¹¸µ2J$91e966c3-45af-4ccd-8293-77334d7558bd
+ƒ	java:S125&"<This block of commented-out lines of code should be removed.(½¡€ıÿÿÿÿ8ö¹¸µ2J$bd404144-0dbb-434f-b4b0-c15d125e993e
+Š
+java:S6201D"BReplace this instanceof check and cast with 'instanceof Long long'(¼”Ñûÿÿÿÿ8ÌİÒ¶2J$44fee487-9bb8-4477-b947-7e6567d7c362
+
+java:S6201F"FReplace this instanceof check and cast with 'instanceof String string'(àò« úÿÿÿÿ8ÌİÒ¶2J$6f15e130-3de5-48d1-924a-95f580739679
+
+java:S6201H"HReplace this instanceof check and cast with 'instanceof Integer integer'(±——ûıÿÿÿÿ8ÌİÒ¶2J$5dd8051c-562e-4d1f-bf9d-4fbc7f301f85
+^
+java:S6201J"BReplace this instanceof check and cast with 'instanceof Date date'(â’ÃI8Ñ†Ó¶2
+r	java:S106W"+Replace this use of System.out by a logger.(¦í•ùÿÿÿÿ8ÍİÒ¶2J$1fd4c383-d8e6-4dc2-aa33-2adceb3279a3

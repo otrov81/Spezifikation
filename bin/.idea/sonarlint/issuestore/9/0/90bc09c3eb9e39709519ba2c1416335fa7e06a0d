@@ -1,0 +1,24 @@
+
+‹
+java:S1192F"JDefine a constant instead of duplicating this literal "user.name" 3 times.(¦½ÂÌûÿÿÿÿJ$b7815787-f3f2-47f3-9f42-cfd21850c63b
+d
+java:S1604B"(Make this anonymous inner class a lambda( ÷©“J$2ad414e0-1603-4920-9ba8-5cb66a8db67d
+d
+java:S1604Q"(Make this anonymous inner class a lambda(ÄÆ¯ÖJ$00046670-c44e-4347-9ebe-aa1f142118d3
+i
+java:S1604a"(Make this anonymous inner class a lambda(ŸŒğïıÿÿÿÿJ$896aa352-29c3-4b93-b6be-a5f3a5f128a1
+i
+java:S1604q"(Make this anonymous inner class a lambda(×¢İêüÿÿÿÿJ$3acec16b-be34-4e2b-b22f-6575316cd83f
+i
+java:S1604{"(Make this anonymous inner class a lambda(ÀÌÄÍşÿÿÿÿJ$0dff917e-b087-4cbe-be99-f5cf25bad285
+e
+java:S1604„"(Make this anonymous inner class a lambda(€Şğ‹J$669dc76f-8cbe-4b12-9285-dfaacdcfab79
+j
+java:S1604‹"(Make this anonymous inner class a lambda(šıå–ıÿÿÿÿJ$b774d40e-0a9e-40fb-a2ec-d26b34a370c1
+À
+java:S1862+"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(­Œ€lJ$df89458a-ccff-4f06-87fc-5207b986542f
+
+java:S1450"TRemove the "frame" field and declare it as a local variable in the relevant methods.(ñğ‰ÍJ$775cf580-97e0-4b7b-b1af-c3d1e96c0c63
+|	java:S1255"<This block of commented-out lines of code should be removed.(È‰—ÉıÿÿÿÿJ$a529d1a1-e1c6-4908-888d-db72f4a75ca1
+e
+java:S1068")Remove this unused "frame" private field.(ñğ‰ÍJ$54187d0f-3049-412a-b8ee-0e09b582db68

@@ -1,0 +1,7 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íˆ÷æ8Ü”Þ®î1J$f7662901-30fa-4f8f-bfec-fc1d888d13d3
+j
+java:S1948"'Make "event" transient or serializable.(÷ÛÞ£8ÛÞÆ±î1J$add9f974-1ad0-4c37-9524-fb4e4526a1fc
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÄé‰ûÿÿÿÿ8þ”Þ®î1J$d943d032-5cf8-4c65-bdbb-cbc9f78ac7ee
+~
+java:S1128"6Remove this unused import 'app.form.user.PanelAction'.(™Æ”Îüÿÿÿÿ8êÞÆ±î1J$18042c79-7dbb-44c8-b9ed-f81b158dad96

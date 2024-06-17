@@ -1,0 +1,74 @@
+
+_
+java:S1192½"HDefine a constant instead of duplicating this literal "Textart" 3 times.(‡²­‡
+d
+java:S1192´"HDefine a constant instead of duplicating this literal "GreÅ¡ka" 3 times.(Á³èøÿÿÿÿ
+h
+java:S1192€"QDefine a constant instead of duplicating this literal "Update text: << " 3 times.(ÿµï
+e
+java:S1192€"NDefine a constant instead of duplicating this literal ">>>>>>>>>>>><" 3 times.(ÿµï
+_
+java:S1192ˆ"HDefine a constant instead of duplicating this literal "Working" 3 times.(ú„ÅÓ
+?
+java:S1604‰"(Make this anonymous inner class a lambda(Ñõ¾
+t
+java:S1104""YMake fixedVariable a static final constant or non-public and provide accessors if needed.(ªë×Öÿÿÿÿÿ
+N
+java:S1444""3Make this "public static fixedVariable" field final(ªë×Öÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íˆ÷æ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+n
+java:S1450"XRemove the "jcomSSpcd" field and declare it as a local variable in the relevant methods.(­‚‡®
+m
+java:S1450"WRemove the "tarText1" field and declare it as a local variable in the relevant methods.(–†Øè
+q
+java:S1450"[Remove the "textDropdown" field and declare it as a local variable in the relevant methods.(Å—¿Á
+r
+java:S1450"WRemove the "textList" field and declare it as a local variable in the relevant methods.(Ô··Ÿøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(â™ê×
+Q	java:S125"<This block of commented-out lines of code should be removed.(–†Øè
+Q	java:S125#"<This block of commented-out lines of code should be removed.(‰ğ˜
+m
+java:S3776."RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(şñÊëÿÿÿÿÿ
+W
+java:S1854Î";Remove this useless assignment to local variable "labText".(±Ñæáüÿÿÿÿ
+S
+java:S1854«"<Remove this useless assignment to local variable "tarText2".(ãàˆ¡
+R
+java:S1854ˆ"<Remove this useless assignment to local variable "labText1".(éôm
+Q	java:S125A"<This block of commented-out lines of code should be removed.(ŒæèŠ
+V	java:S125F"<This block of commented-out lines of code should be removed.(Í¦ñêúÿÿÿÿ
+Q	java:S125R"<This block of commented-out lines of code should be removed.(ÔØ
+R	java:S125’"<This block of commented-out lines of code should be removed.(®¤ü›
+A	java:S106Ÿ"+Replace this use of System.out by a logger.(¸¨üŠ
+R	java:S125§"<This block of commented-out lines of code should be removed.(Ò¿µ
+u
+java:S3252Õ"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(ÅŞüÁşÿÿÿÿ
+q
+java:S3252Ö"ZUse static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_NEVER".(¢êÖ™
+W	java:S125İ"<This block of commented-out lines of code should be removed.(›—÷ùùÿÿÿÿ
+W	java:S125ì"<This block of commented-out lines of code should be removed.(öÎ¡‡ıÿÿÿÿ
+R	java:S125ğ"<This block of commented-out lines of code should be removed.(» èÏ
+A	java:S106€"+Replace this use of System.out by a logger.(ÿµï
+A	java:S106œ"+Replace this use of System.out by a logger.(ÿµï
+?	java:S108©")Either remove or fill this block of code.(å¥‡
+A	java:S106¿"+Replace this use of System.out by a logger.(ÿµï
+R	java:S125Î"<This block of commented-out lines of code should be removed.(ÿ·İõ
+p
+java:S3252"YUse static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_ALWAYS".(‹€™µ
+v
+java:S3252"ZUse static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_NEVER".(’ŠşÒøÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(ıÔàÉÿÿÿÿÿ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(Á†ª…ıÿÿÿÿ
+R	java:S125ª"<This block of commented-out lines of code should be removed.(» èÏ
+A	java:S106½"+Replace this use of System.out by a logger.(Ò¸Æ
+C
+java:S1602Ö",Remove useless curly braces around statement(‹»³¿
+W	java:S125à"<This block of commented-out lines of code should be removed.(ª¤¶îüÿÿÿÿ
+R	java:S125ƒ"<This block of commented-out lines of code should be removed.(÷‚¼”
+F	java:S106¢"+Replace this use of System.out by a logger.(æ‚Ùııÿÿÿÿ
+A	java:S106¦"+Replace this use of System.out by a logger.(¸¨üŠ
+A	java:S106®"+Replace this use of System.out by a logger.(¯íÃª
+A
+java:S1068"+Remove this unused "tarText" private field.(â™ê×

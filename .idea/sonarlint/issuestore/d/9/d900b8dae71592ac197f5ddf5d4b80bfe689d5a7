@@ -1,0 +1,28 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íˆ÷æ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ä Ïúüÿÿÿÿ
+@	java:S106 "+Replace this use of System.out by a logger.(â÷ºß
+Q	java:S125"<This block of commented-out lines of code should be removed.(ƒµ–Ú
+Q	java:S125#"<This block of commented-out lines of code should be removed.(×éšŸ
+Q	java:S125("<This block of commented-out lines of code should be removed.(©ÕÒç
+V	java:S1251"<This block of commented-out lines of code should be removed.(Ÿ¬ÕÍýÿÿÿÿ
+J
+java:S14816"/Remove this unused "speziTexte" local variable.(·ô€Ìøÿÿÿÿ
+c
+java:S5361A"HReplace this call to "replaceAll()" by a call to the "replace()" method.(‘Ü¯úÿÿÿÿ
+]
+java:S5361@"HReplace this call to "replaceAll()" by a call to the "replace()" method.(»¦è-
+^
+java:S5361?"HReplace this call to "replaceAll()" by a call to the "replace()" method.(œÛÍØ
+c
+java:S5361>"HReplace this call to "replaceAll()" by a call to the "replace()" method.(×Îëáûÿÿÿÿ
+c
+java:S5361="HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÖÞ¶ñÿÿÿÿÿ
+^
+java:S5361<"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¦Ø•Œ
+E	java:S106D"+Replace this use of System.out by a logger.(œøÚ‡øÿÿÿÿ
+Q	java:S125Y"<This block of commented-out lines of code should be removed.(ƒµ–Ú
+C	java:S108_")Either remove or fill this block of code.(ÇƒÀÉùÿÿÿÿ

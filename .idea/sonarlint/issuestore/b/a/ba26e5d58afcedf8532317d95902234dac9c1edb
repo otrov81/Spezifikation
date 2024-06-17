@@ -1,0 +1,27 @@
+
+
+java:S1192o"VDefine a constant instead of duplicating this literal "h 40px, w 200px, wrap" 8 times.(êé»âÿÿÿÿÿ8ßµ–¶2J$ed03fffc-e351-4b92-9ac5-d403ff1a73c5
+Œ
+java:S1192:"IDefine a constant instead of duplicating this literal "insets 1" 4 times.(ñÅæî8ßµ–¶2J$5c55b0d4-2bad-4879-98a5-72f831a90585
+r
+java:S6829"*Add @Autowired to one of the constructors.(æ‹³ƒüÿÿÿÿ8àµ–¶2J$86024f07-2c79-47b3-91b7-0f0bb0ceb1ca
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ãµ–¶2J$8180a419-7fbb-4f0e-86ec-5133d7e01243
+š
+java:S1450"WRemove the "userInfo" field and declare it as a local variable in the relevant methods.(ÙÁîÿ8äµ–¶2J$58fd62c9-7328-42de-aeb2-f6b1e80d912a
+t
+java:S1602\",Remove useless curly braces around statement(¦ù¤ëùÿÿÿÿ8ïµ–¶2J$ada7f304-4d76-4129-8852-6ac24d9d6d4a
+t
+java:S1602u",Remove useless curly braces around statement(öãíªùÿÿÿÿ8òµ–¶2J$66e02c5a-a084-4aaf-b0f9-d8eb11ebfdc4
+u
+java:S1602‰",Remove useless curly braces around statement(ÀÁˆÿÿÿÿÿ8õµ–¶2J$015278de-1919-4279-870c-e045a6aef348
+u
+java:S1602",Remove useless curly braces around statement(‹ª”·ùÿÿÿÿ8÷µ–¶2J$44600ac5-5962-48c1-afc3-62a59f076d62
+u
+java:S1602±",Remove useless curly braces around statement(‰½ÀŞûÿÿÿÿ8øµ–¶2J$6fe73323-b791-4e5b-85b7-f5653573cdb2
+p
+java:S1602Å",Remove useless curly braces around statement(Ó²–±8úµ–¶2J$b4c31003-1021-4e8f-9ba9-8b3a6b259d12
+p
+java:S1602Ö",Remove useless curly braces around statement(¾³Üœ8úµ–¶2J$605bab81-f8bc-49f6-98d8-6be96862f717
+u
+java:S1602ê",Remove useless curly braces around statement(ŞÂ„ûÿÿÿÿ8úµ–¶2J$91da9bfe-8638-43c7-b100-f52172bd1054

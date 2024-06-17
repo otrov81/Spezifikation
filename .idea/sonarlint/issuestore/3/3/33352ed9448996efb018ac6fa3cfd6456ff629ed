@@ -1,0 +1,21 @@
+
+4
+java:S1700"Rename field "userInfo"(õùøŒ8ÑÙ¬·2
+¦
+java:S1488^"^Immediately return this expression instead of assigning it to the temporary variable "output".(Ì‘İúÿÿÿÿ8ü–¥‚ï1J$f7a65578-9068-4bc5-83ce-4bc0e0c0fb5d
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÒÙ¬·2
+v
+java:S1450"YRemove the "adminRolle" field and declare it as a local variable in the relevant methods.(”Ñæ8ÒÙ¬·2
+t
+java:S1450"WRemove the "userInfo" field and declare it as a local variable in the relevant methods.(õùøŒ8ÒÙ¬·2
+y
+java:S1450"WRemove the "userName" field and declare it as a local variable in the relevant methods.(Û”øÚøÿÿÿÿ8ÒÙ¬·2
+[
+java:S1117&">Rename "adminRolle" which hides the field declared at line 20.(ÛÑ‰¥8ÕÙ¬·2
+\
+java:S1854V"@Remove this useless assignment to local variable "berechtigung".(ñĞ–{8×Ù¬·2
+M
+java:S1481V"1Remove this unused "berechtigung" local variable.(ñĞ–{8ÚÙ¬·2
+O
+java:S1068"2Remove this unused "userRepository" private field.(×Š¾8ÜÙ¬·2

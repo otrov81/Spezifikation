@@ -1,0 +1,8 @@
+
+€
+java:S4165"eRemove this useless assignment; "text_sa" already holds the assigned value along all execution paths.(Ê–Ç°øÿÿÿÿ
+l	java:S116"RRename this field "text_sa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥‡áÜÿÿÿÿÿ
+H
+java:S1172"-Remove this unused method parameter "textSa".(‹±¿àøÿÿÿÿ
+J
+java:S1656"/Remove or correct this useless self-assignment.(Ê–Ç°øÿÿÿÿ

@@ -1,0 +1,35 @@
+
+
+java:S2095*"HUse try-with-resources or close this "Connection" in a "finally" clause.(Œ†ş‰ùÿÿÿÿ8¨º‚‡î1J$5a7733c7-9017-4dc6-867e-45450f2058b9
+
+java:S2095­"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8¨º‚‡î1J$95e22e2b-0f33-4ee9-8d64-9a3b5bbb7b12
+
+java:S2095^"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8©º‚‡î1J$c35d01ea-1e5c-4963-904f-65d2b1ec1907
+“
+java:S2095Ò"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ô­˜’8¨º‚‡î1J$3882ba24-75a3-4d6f-a7dc-5fbbf5833f68
+
+java:S2095+"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8©º‚‡î1J$fd277864-754a-4d7c-8245-4ea7bba99f4b
+
+java:S2095]"HUse try-with-resources or close this "Connection" in a "finally" clause.(Œ†ş‰ùÿÿÿÿ8¦º‚‡î1J$56048f21-4381-41bb-92eb-eac549e548f9
+“
+java:S2095„"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ô­˜’8¨º‚‡î1J$19cb6f6c-3878-4c0e-a6ce-36b9b3fbf394
+—
+java:S2095{"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸ÒÂ»ùÿÿÿÿ8¨º‚‡î1J$e159ac2f-2188-441e-a779-434079423127
+‘
+java:S2095¬"HUse try-with-resources or close this "Connection" in a "finally" clause.(Œ†ş‰ùÿÿÿÿ8¨º‚‡î1J$bf4a514c-6118-48e7-b152-f014edad8f19
+
+java:S2095C"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8§º‚‡î1J$470d3cf4-436e-41fe-b5fc-2b66a5a4cc8a
+‘
+java:S2095Æ"HUse try-with-resources or close this "Connection" in a "finally" clause.(×È ½üÿÿÿÿ8¨º‚‡î1J$b935f56e-ce5c-49bc-99ee-86984d2a74ba
+
+java:S2095x"HUse try-with-resources or close this "Connection" in a "finally" clause.(×È ½üÿÿÿÿ8¨º‚‡î1J$52764495-53c7-4568-a642-45cdce5ea54a
+˜
+java:S2095É"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸ÒÂ»ùÿÿÿÿ8¨º‚‡î1J$f1bb8930-70d6-4574-93a4-d0c675c15750
+
+java:S2095B"HUse try-with-resources or close this "Connection" in a "finally" clause.(Œ†ş‰ùÿÿÿÿ8§º‚‡î1J$13147fe3-f0e3-48ce-896e-1b3ec933d7bd
+s	java:S106•"+Replace this use of System.out by a logger.(ë¹ùÿÿÿÿ8Ìº‚‡î1J$85bfbc76-0508-4a16-9a29-4e031a0e5b3d
+n	java:S106˜"+Replace this use of System.out by a logger.(äìÎÆ8Îº‚‡î1J$02d2b2bd-99bc-422c-8c39-0d1750e1faad
+n	java:S106¢"+Replace this use of System.out by a logger.(–Ÿ†İ8Ğº‚‡î1J$306ffffe-eb8d-4b77-90c5-3e6c57d55c19
+s	java:S106ã"+Replace this use of System.out by a logger.(ë¹ùÿÿÿÿ8Øº‚‡î1J$07e01629-6a36-4b48-a949-51cd6b064a22
+n	java:S106æ"+Replace this use of System.out by a logger.(äìÎÆ8Ùº‚‡î1J$1ee060a3-5a4d-4e56-84b0-07bbd9bb24a9
+n	java:S106ğ"+Replace this use of System.out by a logger.(–Ÿ†İ8Ûº‚‡î1J$8c1b1c34-9814-4a62-8bc7-754a2842e96f

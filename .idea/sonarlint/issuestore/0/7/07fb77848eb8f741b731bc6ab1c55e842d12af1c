@@ -1,0 +1,9 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(κζΔή8ηΪβλο1J$85794ff4-3760-444a-a6c5-1a0f3521fb91
+n
+java:S1948"+Make "dbService" transient or serializable.(Ϋφ8κΪβλο1J$d43de2b9-a888-4ee3-b381-2d6ca0896721
+΅
+java:S21425"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8ψΪβλο1J$485faae4-3546-457c-927e-13dc49a2e9bf
+p
+java:S1068"(Remove this unused "name" private field.(³Ϊ«άψÿÿÿÿ8…Ϋβλο1J$0bd4dec3-1af9-4bef-aaa8-5292230542a8
