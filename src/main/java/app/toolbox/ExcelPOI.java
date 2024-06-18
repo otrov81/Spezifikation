@@ -30,8 +30,17 @@ public class ExcelPOI {
 
             // Optional: Open Excel application (if not already opened) using cmd command
             // Note: This method is platform-dependent and works on Windows with Excel installed
-            Runtime.getRuntime().exec("cmd /c start excel \"" + filePath + "\"");
+            // open with excel
+            //Runtime.getRuntime().exec("cmd /c start excel \"" + filePath + "\"");
 
+            // Open LibreOffice Calc (assuming it's installed and in the system's PATH)
+            // Full path to the LibreOffice executable
+            String libreOfficePath = "C:\\Program Files\\LibreOffice\\program\\scalc.exe";
+
+            // Open LibreOffice Calc with the Excel file
+            String command = "\"" + libreOfficePath + "\" --calc \"" + filePath + "\"";
+            Runtime.getRuntime().exec(command);
+            
         } catch (Exception e) {
             e.printStackTrace();
             // Handle exceptions here, such as displaying an error message
