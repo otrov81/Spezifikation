@@ -260,6 +260,16 @@ public class UserForm extends JPanel {
                     dbService.LogToDatabase("ERROR", "Unable to delete (UserForm)", String.valueOf(e));
                 }
             }
+
+            @Override
+            public void onPdf(int row) {
+
+                // table db -> id
+                Long userID = (Long) table.getValueAt(row, 1); // Get user ID
+                // Implement PDF action
+                System.out.println("PDF action triggered for row: " + row+" >>>> "+userID);
+                // Add your logic for PDF action here
+            }
         };
     }
 

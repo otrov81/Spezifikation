@@ -2,6 +2,8 @@ package app.form.dashboard;
 
 import app.form.documentation.Documentation;
 import app.form.login.LoginForm;
+import app.form.restapi.RestApi;
+import app.form.restapiweb.RestApiWeb;
 import app.form.spezi.SpeziForm;
 import app.form.speziAnlegen.SpeziAnlegen;
 import app.form.textEdit.TextEdit;
@@ -35,6 +37,8 @@ public class Dashboard extends JPanel {
     private JButton btnBlocke;
     private JButton btnLogin = new JButton("Login");
     private JButton btnDokumentation;
+    private JButton btnRestApi; // tabel with rest api
+    private JButton btnWebRestApi;
 
     public Dashboard() {
         // Default constructor
@@ -62,7 +66,7 @@ public class Dashboard extends JPanel {
         URL resourceUrl = classLoader.getResource("logo/Almi.png");
         ImageIcon almiIcon = new ImageIcon(resourceUrl);
         Image image = almiIcon.getImage();
-        Image scaledImage = image.getScaledInstance(-1, 100, Image.SCALE_SMOOTH);
+        Image scaledImage = image.getScaledInstance(-1, 200, Image.SCALE_SMOOTH);
         ImageIcon scaledIcon = new ImageIcon(scaledImage);
 
         JLabel labIconAlmi = new JLabel(scaledIcon);
@@ -191,6 +195,45 @@ public class Dashboard extends JPanel {
             }
         });
 
+        //rest api button
+        btnRestApi = new JButton("<html><i>Mischungen</i></html>");
+        btnRestApi.setToolTipText("REST Api....");
+        btnRestApi.addActionListener(e -> {
+            ManagerForm.getInstance().showForm(new RestApi(frame, dbService));
+        });
+        // Set hand cursor when mouse enters
+        btnRestApi.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mouseEntered(MouseEvent e) {
+                btnRestApi.setCursor(new Cursor(Cursor.HAND_CURSOR)); //Set hand cursor when mouse enters
+            }
+
+            @Override
+            public void mouseExited(MouseEvent e) {
+                btnRestApi.setCursor(new Cursor(Cursor.DEFAULT_CURSOR)); // Set default cursor when mouse exits
+            }
+        });
+
+
+        //rest api button
+        btnWebRestApi = new JButton("<html><i>Rest api</i></html>");
+        btnWebRestApi.setToolTipText("REST Api....");
+        btnWebRestApi.addActionListener(e -> {
+            ManagerForm.getInstance().showForm(new RestApiWeb(frame, dbService));
+        });
+        // Set hand cursor when mouse enters
+        btnWebRestApi.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mouseEntered(MouseEvent e) {
+                btnWebRestApi.setCursor(new Cursor(Cursor.HAND_CURSOR)); //Set hand cursor when mouse enters
+            }
+
+            @Override
+            public void mouseExited(MouseEvent e) {
+                btnWebRestApi.setCursor(new Cursor(Cursor.DEFAULT_CURSOR)); // Set default cursor when mouse exits
+            }
+        });
+
         // Close button
         btnClose = new JButton("Close");
         btnClose.setToolTipText("Programm beenden");
@@ -256,8 +299,10 @@ public class Dashboard extends JPanel {
 
         // Panel for buttons in the center
         JPanel yPanel = new JPanel(new MigLayout("insets 1", "", ""));
-        yPanel.add(btnSpeziForm, "h 40px, w 200px, wrap");
-        yPanel.add(btnSpeziEdit, "h 40px, w 200px, wrap");
+        yPanel.add(btnSpeziForm, "h 40px, w 200px, gapright 300px");
+        yPanel.add(btnRestApi,"h 40px, w 200px, wrap");
+        yPanel.add(btnSpeziEdit, "h 40px, w 200px");
+        yPanel.add(btnWebRestApi, "h 40px, w 200px, wrap");
         yPanel.add(btnTextarten, "h 40px, w 200px, wrap");
         yPanel.add(btnBlocke, "h 40px, w 200px, wrap");
 

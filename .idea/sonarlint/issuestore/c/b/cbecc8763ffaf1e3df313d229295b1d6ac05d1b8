@@ -1,49 +1,50 @@
 
 ª
-java:S1488”"aImmediately return this expression instead of assigning it to the temporary variable "component".(í·¸Úıÿÿÿÿ8µ¿Æµ2J$abb1e3cd-f1a2-4e61-9886-6fd87f9837fc
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "component".(í·¸Úıÿÿÿÿ8²©—™…2J$f7a6ce42-9c5e-4f65-be2d-bc023f3b0278
 –
-java:S1192³"MDefine a constant instead of duplicating this literal "Berechtigung" 3 times.(®êûèÿÿÿÿÿ8·¿Æµ2J$d3495bd4-79e9-4e03-a0a0-798640cac57d
+java:S1192³"MDefine a constant instead of duplicating this literal "Berechtigung" 3 times.(®êûèÿÿÿÿÿ8·¿Æµ2J$3704b1d8-ec47-48d4-8f54-99e5a78eb99e
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8»¿Æµ2J$5cc47c67-4a20-4dcb-932d-ae9ec25e07fc
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8»¿Æµ2J$9130077c-043f-443d-8e14-d188a0284049
 
-java:S1450 "[Remove the "currentTheme" field and declare it as a local variable in the relevant methods.( ˆÈ8ÔÉşµ2J$722dd53d-d52f-4a34-8072-d383bcaa92b1
+java:S1450 "[Remove the "currentTheme" field and declare it as a local variable in the relevant methods.( ˆÈ8ÔÉşµ2J$123b982a-f8ff-42eb-befa-eb1ac9d7b245
 m
-java:S1948"*Make "menuInfo" transient or serializable.(‡Ã·Ş8ÔÉşµ2J$a45bb2e6-d1b1-4a01-9bc6-4b1b740afc2f
+java:S1948"*Make "menuInfo" transient or serializable.(‡Ã·Ş8§ÇËş„2J$2c5dafdd-6ec5-46c9-9913-2bda21bacec4
 k
-java:S1948'")Make "addUser" transient or serializable.(ŒÂË8ÔÉşµ2J$6f0a9720-e2d0-4f76-b67b-c56671be2754
+java:S1948'")Make "addUser" transient or serializable.(ŒÂË8¨ÇËş„2J$0f4fb6c7-b7f0-4ae5-824f-6f37b3c5c9e2
 r
-java:S1948)"*Make "excelPOI" transient or serializable.(´‰Úçøÿÿÿÿ8ÔÉşµ2J$1ec661a9-088d-4a46-9e37-33a332426d5b
+java:S1948)"*Make "excelPOI" transient or serializable.(´‰Úçøÿÿÿÿ8¨ÇËş„2J$e34fd670-0582-4513-831e-5f0c625e8126
 m
-java:S1948+"%Make "md5" transient or serializable.(Êö˜úÿÿÿÿ8ÔÉşµ2J$cc55d4e6-63dc-4638-8390-928ec72e424f
+java:S1948+"%Make "md5" transient or serializable.(Êö˜úÿÿÿÿ8¨ÇËş„2J$1fde9bdb-a59d-4ed2-ad36-4d117d1fba49
 k
-java:S2440+"#Remove this instantiation of "MD5".(Êö˜úÿÿÿÿ8×Éşµ2J$2988b089-d42b-4204-9e1e-3076de42d18c
+java:S2440+"#Remove this instantiation of "MD5".(Êö˜úÿÿÿÿ8¬ÇËş„2J$8cd39e72-21ea-4ded-95a3-194ba3052f19
 i
-java:S30104"&Remove this assignment of "dbService".(ÅÀÁ8¾¿Æµ2J$c1353426-5710-459e-918b-a09877026ecd
+java:S30104"&Remove this assignment of "dbService".(ÅÀÁ8¾¿Æµ2J$8d7559e3-6edd-40d5-b8b5-b46ff385aa77
 x
-java:S22094"5Change this instance-reference to a static reference.(ÅÀÁ8¿¿Æµ2J$ccb43138-f640-4a92-98e9-b8935fc1f656
+java:S22094"5Change this instance-reference to a static reference.(ÅÀÁ8¿¿Æµ2J$7ce7fb6f-d3e7-46a0-a390-660acc298bed
 y
-java:S2696{"6Make the enclosing method "static" or remove this set.(Ãì©8Ê¿Æµ2J$6667f389-e062-43e5-b5b5-bbffc6f5f18c
+java:S2696{"6Make the enclosing method "static" or remove this set.(Ãì©8Ê¿Æµ2J$d5cd3385-87d0-4043-9297-a2bcf493293d
 ›
-java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(—¼‡ùÿÿÿÿ8Ğ¿Æµ2J$eee60f83-50bc-4212-8f5a-91f08aa2f9a2
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(—¼‡ùÿÿÿÿ8Ğ¿Æµ2J$e7cee6dd-361d-4ee7-abee-a19008573610
 ~
-java:S2209ã"5Change this instance-reference to a static reference.(îÇ¿Şûÿÿÿÿ8Ô¿Æµ2J$eb47c44d-52e4-4309-9f6f-85b002b702f0
+java:S2209ã"5Change this instance-reference to a static reference.(îÇ¿Şûÿÿÿÿ8ÍÇËş„2J$da6008f4-4a45-4da9-bfd2-e5f5d7ddec4c
 ~
-java:S2209ä"5Change this instance-reference to a static reference.(¹£­üÿÿÿÿ8Ô¿Æµ2J$639af836-a89c-4860-9593-600992180720
+java:S2209ä"5Change this instance-reference to a static reference.(¹£­üÿÿÿÿ8ÍÇËş„2J$6515da62-33f3-4408-b7b7-6779d16c0879
 x
-java:S2209å"5Change this instance-reference to a static reference.( »ûg8Ô¿Æµ2J$e53524b6-a0ba-4a2c-8875-71873e4c261e
+java:S2209å"5Change this instance-reference to a static reference.( »ûg8ÎÇËş„2J$2c5f94fe-b958-4a3e-9843-0fdad80e6414
 ~
-java:S2209æ"5Change this instance-reference to a static reference.(µËºßúÿÿÿÿ8Ô¿Æµ2J$f6d323de-4889-4a88-b1fa-ef9a8cc85098
+java:S2209æ"5Change this instance-reference to a static reference.(µËºßúÿÿÿÿ8ÎÇËş„2J$5c797dd4-728d-4e05-89ad-8dca60ec1445
 ~
-java:S2209ç"5Change this instance-reference to a static reference.(‘Ô»ûÿÿÿÿ8Ô¿Æµ2J$e04a1b22-ec45-4dfc-820e-0bf2ed5f29d8
+java:S2209ç"5Change this instance-reference to a static reference.(‘Ô»ûÿÿÿÿ8ÎÇËş„2J$5f730299-e74b-46ab-a3fb-304ac58c2c21
+n	java:S106"+Replace this use of System.out by a logger.(ÂÖ½8ú©—™…2J$1e3f2671-33d3-42a1-9eaf-ae836cb13db0
 s
-java:S1068 "0Remove this unused "currentTheme" private field.( ˆÈ8òÉşµ2J$8b0dbe81-f260-4b10-bf5a-916a09e0ffb9
+java:S1068 "0Remove this unused "currentTheme" private field.( ˆÈ8òÉşµ2J$acdce920-cbb6-443d-8d20-20124ebe2bdd
 y
-java:S1068!"1Remove this unused "userNameStyle" private field.(¼ ¹Èıÿÿÿÿ8òÉşµ2J$e7d1c231-b5e1-43b9-b29e-4a5e8fcd4530
+java:S1068!"1Remove this unused "userNameStyle" private field.(¼ ¹Èıÿÿÿÿ8òÉşµ2J$e6577e1f-8905-484c-8bd8-9422b59ed000
 v
-java:S1068"".Remove this unused "useridText" private field.(»Ğ‡ëûÿÿÿÿ8òÉşµ2J$add25c1e-01fe-4298-8f45-0b80eeb77b08
+java:S1068"".Remove this unused "useridText" private field.(»Ğ‡ëûÿÿÿÿ8ÛÇËş„2J$70bcb04c-dff2-48c6-81f6-7e47de1f20f7
 r
-java:S1068#"0Remove this unused "usernameText" private field.(Çèİ8óÉşµ2J$6f6c242e-61b3-413d-aa13-6fa0713b9e67
+java:S1068#"0Remove this unused "usernameText" private field.(Çèİ8ÛÇËş„2J$1d32a3bb-7716-4985-ad3d-b2551a8aa76a
 s
-java:S1068$"0Remove this unused "passwordText" private field.(ÙèÜà8óÉşµ2J$2d131367-cbe1-4da3-8674-f2dbc12f432a
+java:S1068$"0Remove this unused "passwordText" private field.(ÙèÜà8ÛÇËş„2J$a70f4c61-5803-44e7-8866-b044e351e227
 w
-java:S1068%"4Remove this unused "berechtigungText" private field.(‡Ì†Ğ8óÉşµ2J$6b041091-de30-4f1e-84b0-c87de8cca122
+java:S1068%"4Remove this unused "berechtigungText" private field.(‡Ì†Ğ8ÛÇËş„2J$0cf49a14-eb2c-4257-8e72-a50bba45cdd1

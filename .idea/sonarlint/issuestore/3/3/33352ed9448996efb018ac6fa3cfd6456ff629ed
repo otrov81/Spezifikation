@@ -14,13 +14,13 @@ java:S1450"WRemove the "userName" field and declare it as a local variable in 
 [
 java:S1117&">Rename "adminRolle" which hides the field declared at line 20.(ÛÑ‰¥8ÕÙ¬·2
 W
-java:S2209'"5Change this instance-reference to a static reference.(÷´ÀÙøÿÿÿÿ8ÕÙ¬·2
+java:S2209'"5Change this instance-reference to a static reference.(÷´ÀÙøÿÿÿÿ8¦òÈ¦„2
 W
-java:S2209C"5Change this instance-reference to a static reference.(Â×Öÿÿÿÿÿ8×Ù¬·2
+java:S2209C"5Change this instance-reference to a static reference.(Â×Öÿÿÿÿÿ8®òÈ¦„2
 \
 java:S1854V"@Remove this useless assignment to local variable "berechtigung".(ñĞ–{8×Ù¬·2
 W
-java:S2209R"5Change this instance-reference to a static reference.(÷´ÀÙøÿÿÿÿ8ÙÙ¬·2
+java:S2209R"5Change this instance-reference to a static reference.(÷´ÀÙøÿÿÿÿ8±òÈ¦„2
 M
 java:S1481V"1Remove this unused "berechtigung" local variable.(ñĞ–{8ÚÙ¬·2
 O

@@ -1,31 +1,35 @@
 
 
-java:S1192o"VDefine a constant instead of duplicating this literal "h 40px, w 200px, wrap" 8 times.(êé»âÿÿÿÿÿ8ßµ–¶2J$ed03fffc-e351-4b92-9ac5-d403ff1a73c5
+java:S1192s"VDefine a constant instead of duplicating this literal "h 40px, w 200px, wrap" 8 times.(êé»âÿÿÿÿÿ8‹ğ…û„2J$a965fd7e-08f5-4253-aa87-ca20cf58aa5b
 Œ
-java:S1192:"IDefine a constant instead of duplicating this literal "insets 1" 4 times.(ñÅæî8ßµ–¶2J$5c55b0d4-2bad-4879-98a5-72f831a90585
+java:S1192>"IDefine a constant instead of duplicating this literal "insets 1" 4 times.(ñÅæî8ğ…û„2J$a204d3e7-406c-45d3-b758-1856b31d7427
 r
-java:S6829"*Add @Autowired to one of the constructors.(æ‹³ƒüÿÿÿÿ8àµ–¶2J$86024f07-2c79-47b3-91b7-0f0bb0ceb1ca
+java:S6829"*Add @Autowired to one of the constructors.(æ‹³ƒüÿÿÿÿ8ğ…û„2J$a462cb7f-43a4-47f6-acfe-ec4a84c71a8e
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ãµ–¶2J$8180a419-7fbb-4f0e-86ec-5133d7e01243
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8’ğ…û„2J$3ff515d5-afab-433e-b129-7ca3fd52ea0e
 š
-java:S1450"WRemove the "userInfo" field and declare it as a local variable in the relevant methods.(ÙÁîÿ8äµ–¶2J$58fd62c9-7328-42de-aeb2-f6b1e80d912a
+java:S1450"WRemove the "userInfo" field and declare it as a local variable in the relevant methods.(ÙÁîÿ8•ğ…û„2J$26211629-cf8b-4dca-b011-dd4723a79839
 n
-java:S1948"+Make "dbService" transient or serializable.(¥š8äµ–¶2J$fb30a3f4-9ca3-4e27-ba93-3e1fc3bcba53
+java:S1948"+Make "dbService" transient or serializable.(¥š8–ğ…û„2J$f1bfec1a-0964-49c9-89d4-5abf3b0ad1bc
 m
-java:S1948"*Make "userInfo" transient or serializable.(ÙÁîÿ8äµ–¶2J$762a37df-e3e3-44a1-811a-62a3cb0af59b
+java:S1948"*Make "userInfo" transient or serializable.(ÙÁîÿ8—ğ…û„2J$b10a75dc-5735-43b1-8264-4518dc1d1dbe
 t
-java:S1602\",Remove useless curly braces around statement(¦ù¤ëùÿÿÿÿ8ïµ–¶2J$ada7f304-4d76-4129-8852-6ac24d9d6d4a
+java:S1602`",Remove useless curly braces around statement(¦ù¤ëùÿÿÿÿ8­ğ…û„2J$52d8169c-030b-4f3c-9b7c-c0bdf51c74be
 t
-java:S1602u",Remove useless curly braces around statement(öãíªùÿÿÿÿ8òµ–¶2J$66e02c5a-a084-4aaf-b0f9-d8eb11ebfdc4
+java:S1602y",Remove useless curly braces around statement(öãíªùÿÿÿÿ8·ğ…û„2J$6c3923d3-c4a1-4f8e-b39c-df1ddbc71fd8
 u
-java:S1602‰",Remove useless curly braces around statement(ÀÁˆÿÿÿÿÿ8õµ–¶2J$015278de-1919-4279-870c-e045a6aef348
+java:S1602",Remove useless curly braces around statement(ÀÁˆÿÿÿÿÿ8Àğ…û„2J$08b98e77-00c7-4005-b80a-2ece4239ceeb
 u
-java:S1602",Remove useless curly braces around statement(‹ª”·ùÿÿÿÿ8÷µ–¶2J$44600ac5-5962-48c1-afc3-62a59f076d62
+java:S1602¡",Remove useless curly braces around statement(‹ª”·ùÿÿÿÿ8Çğ…û„2J$ac06ab1e-2266-473a-a1a2-47bf271596df
 u
-java:S1602±",Remove useless curly braces around statement(‰½ÀŞûÿÿÿÿ8øµ–¶2J$6fe73323-b791-4e5b-85b7-f5653573cdb2
+java:S1602µ",Remove useless curly braces around statement(‰½ÀŞûÿÿÿÿ8Îğ…û„2J$2e6b4397-7af2-4217-80c7-7b94502c6860
+u
+java:S1602É",Remove useless curly braces around statement(ûµ’Àúÿÿÿÿ8Úğ…û„2J$c44ce066-c63d-4f4b-a09b-8db57249e2ce
+u
+java:S1602İ",Remove useless curly braces around statement(ñ§ëÿÿÿÿÿ8áğ…û„2J$13579f02-1a36-4cb7-bb23-e837b5134c35
 p
-java:S1602Å",Remove useless curly braces around statement(Ó²–±8úµ–¶2J$b4c31003-1021-4e8f-9ba9-8b3a6b259d12
+java:S1602ğ",Remove useless curly braces around statement(Ó²–±8çğ…û„2J$6efeac7b-3d5a-4c3c-b81d-5bb6c9cf60bc
 p
-java:S1602Ö",Remove useless curly braces around statement(¾³Üœ8úµ–¶2J$605bab81-f8bc-49f6-98d8-6be96862f717
+java:S1602",Remove useless curly braces around statement(¾³Üœ8ìğ…û„2J$7b0e9e2b-c7e7-4612-91c6-8809b14e61af
 u
-java:S1602ê",Remove useless curly braces around statement(ŞÂ„ûÿÿÿÿ8úµ–¶2J$91da9bfe-8638-43c7-b100-f52172bd1054
+java:S1602•",Remove useless curly braces around statement(ŞÂ„ûÿÿÿÿ8òğ…û„2J$06dc346f-02f2-4404-ae08-75b4a5f3c868

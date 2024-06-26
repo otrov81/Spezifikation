@@ -62,6 +62,7 @@ public class Application extends JFrame {
         setUndecorated(false);
         setTitle("Spezifikation");
         setSize(new Dimension(1800, 1200));
+        setMinimumSize(new java.awt.Dimension(1500, 600));
         setLocationRelativeTo(null);
         // add icon
         ImageIcon icon = new ImageIcon(Application.class.getResource("/logo/Spezi.png")); // icon path

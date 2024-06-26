@@ -1,15 +1,18 @@
 
 }
-java:S1141U"5Extract this nested try block into a separate method.(çÆ«±ıÿÿÿÿ8½İÒ¶2J$136a28ee-b2da-4ba8-897a-bc5d1cfbfd91
-n
-java:S1874!",Remove this use of "exec"; it is deprecated.(šÁª+8ô¹¸µ2J$91e966c3-45af-4ccd-8293-77334d7558bd
-ƒ	java:S125&"<This block of commented-out lines of code should be removed.(½¡€ıÿÿÿÿ8ö¹¸µ2J$bd404144-0dbb-434f-b4b0-c15d125e993e
+java:S1141^"5Extract this nested try block into a separate method.(çÆ«±ıÿÿÿÿ8½İÒ¶2J$ee77a57e-43af-4d1b-9e1f-c1d660504e6a
+‰
+java:S1075%"ARefactor your code to get this URI from a customizable parameter.(»îÀŞúÿÿÿÿ8š¼ˆÒ‚2J$e545e611-454b-4836-a20a-4af778fdd378
+ƒ	java:S125!"<This block of commented-out lines of code should be removed.(ü¶ÈÏùÿÿÿÿ8šˆüÑ‚2J$8a0ba7f2-1e48-4083-a3e5-13e412098141
+t
+java:S1874)",Remove this use of "exec"; it is deprecated.(Çîâüşÿÿÿÿ8œ¼ˆÒ‚2J$c6f3431c-2001-40e5-8171-ca8ada9e3457
+ƒ	java:S125/"<This block of commented-out lines of code should be removed.(½¡€ıÿÿÿÿ8ö¹¸µ2J$ff634089-36ac-478f-a022-6133439ae255
 Š
-java:S6201D"BReplace this instanceof check and cast with 'instanceof Long long'(¼”Ñûÿÿÿÿ8ÌİÒ¶2J$44fee487-9bb8-4477-b947-7e6567d7c362
+java:S6201M"BReplace this instanceof check and cast with 'instanceof Long long'(¼”Ñûÿÿÿÿ8ÌİÒ¶2J$3991f3cb-cd66-4d1d-92a6-9090499d4be3
 
-java:S6201F"FReplace this instanceof check and cast with 'instanceof String string'(àò« úÿÿÿÿ8ÌİÒ¶2J$6f15e130-3de5-48d1-924a-95f580739679
+java:S6201O"FReplace this instanceof check and cast with 'instanceof String string'(àò« úÿÿÿÿ8ÌİÒ¶2J$086f7175-fd85-4157-9355-b560adc26772
 
-java:S6201H"HReplace this instanceof check and cast with 'instanceof Integer integer'(±——ûıÿÿÿÿ8ÌİÒ¶2J$5dd8051c-562e-4d1f-bf9d-4fbc7f301f85
-^
-java:S6201J"BReplace this instanceof check and cast with 'instanceof Date date'(â’ÃI8Ñ†Ó¶2
-r	java:S106W"+Replace this use of System.out by a logger.(¦í•ùÿÿÿÿ8ÍİÒ¶2J$1fd4c383-d8e6-4dc2-aa33-2adceb3279a3
+java:S6201Q"HReplace this instanceof check and cast with 'instanceof Integer integer'(±——ûıÿÿÿÿ8ÌİÒ¶2J$7861d9ba-cf0c-45c4-b24b-538efdc55287
+„
+java:S6201S"BReplace this instanceof check and cast with 'instanceof Date date'(â’ÃI8Ñ†Ó¶2J$b9d43de1-0771-47ea-9a0e-ff029e7dc9a9
+r	java:S106`"+Replace this use of System.out by a logger.(¦í•ùÿÿÿÿ8ÍİÒ¶2J$d141d03d-586d-449f-88a1-aeb0902812c3

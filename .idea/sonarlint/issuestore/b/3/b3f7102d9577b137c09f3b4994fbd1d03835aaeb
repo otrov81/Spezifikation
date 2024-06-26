@@ -1,5 +1,23 @@
 
-X	java:S107z"<Method has 8 parameters, which is greater than 7 authorized.(ê³® 8û¦ƒ‘ğ1
-^	java:S107‚"<Method has 8 parameters, which is greater than 7 authorized.(´ÓÏÀúÿÿÿÿ8ü¦ƒ‘ğ1
-j	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ„íÎ8†§ƒ‘ğ1
-k	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ³šª8™§ƒ‘ğ1
+‰	java:S112È"FDefine and throw a dedicated exception instead of using a generic one.(«Ï„æ8›˜Ñü„2J$ad47fab6-f2fa-44e5-a355-31a444369034
+	java:S107…"<Method has 8 parameters, which is greater than 7 authorized.(ê³® 8 ˜Ñü„2J$280d479a-dc71-4dc4-84c7-c3e8f3d886a9
+„	java:S107"<Method has 8 parameters, which is greater than 7 authorized.(´ÓÏÀúÿÿÿÿ8 ˜Ñü„2J$b0c7e648-b59f-4eb7-a0b7-78b9a6d9461e
+	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ„íÎ8¦˜Ñü„2J$338fac1b-ebe2-4fa9-a1b4-bc5d1f686f22
+‘	java:S100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ³šª8«˜Ñü„2J$f2dd7227-8ad6-4fad-b93b-9a5ef70c409d
+~
+java:S1128";Remove this unused import 'app.form.restapiweb.RestApiWeb'.(ã»ËÊ8±†×ü„2J$0e62a4d1-f995-4f50-b227-e6ba7f62b99e
+‹
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8²†×ü„2J$db15063a-2bca-4073-a4da-d4eaf792270d
+”
+java:S1128"QRemove this unused import 'org.apache.http.client.methods.CloseableHttpResponse'.(©£çË8³†×ü„2J$78791793-ecbf-4869-b15e-fa58743f1ae8
+†
+java:S1128	"CRemove this unused import 'org.apache.http.client.methods.HttpGet'.(‡Ê’Ú8³†×ü„2J$eee04374-99c2-43dd-880a-143430ac66e4
+
+java:S1128
+"LRemove this unused import 'org.apache.http.impl.client.CloseableHttpClient'.(´—Óµ8´†×ü„2J$49158db9-1f4d-4e5d-b47d-046af442aacd
+‡
+java:S1128"DRemove this unused import 'org.apache.http.impl.client.HttpClients'.(§¹øÿ8´†×ü„2J$d1292eef-95e7-471d-99ac-97b638004c66
+€
+java:S1128"=Remove this unused import 'org.apache.http.util.EntityUtils'.(Å‹»8´†×ü„2J$b6979658-8dd8-4b61-b1b9-f47adcb0507f
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8´†×ü„2J$36dc40cf-343a-402a-9325-38813c4a9fd3

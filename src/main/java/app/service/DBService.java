@@ -1,11 +1,20 @@
 package app.service;
 
+import app.form.restapiweb.RestApiWeb;
 import app.microservice.Microservice;
 import app.model.*;
 import app.repository.*;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import org.apache.http.client.methods.CloseableHttpResponse;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.CloseableHttpClient;
+import org.apache.http.impl.client.HttpClients;
+import org.apache.http.util.EntityUtils;
 import org.springframework.stereotype.Service;
 
+import java.io.IOException;
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class DBService {
@@ -23,8 +32,9 @@ public class DBService {
     private final SpeziMemoRepository speziMemoRepository;
     private final SpeziPdfRepository speziPdfRepository;
     private final DocuRepository docuRepository;
+    private final RestApiRepository restApiRepository;
 
-    public DBService(SpeziTexteRepository speziTexteRepository, SpeziDetailRepository speziDetailRepository, SpeziKopfRepository speziKopfRepository, SpeziTextartRepository speziTextartRepository, SpeziViewRepository speziViewRepository, UserRepository userRepository, LoginRepository loginRepository, SpeziSaRepository speziSaRepository, SpeziSpcdRepository speziSpcdRepository, Microservice microservice, SpeziMemoRepository speziMemoRepository, SpeziPdfRepository speziPdfRepository, DocuRepository docuRepository) {
+    public DBService(SpeziTexteRepository speziTexteRepository, SpeziDetailRepository speziDetailRepository, SpeziKopfRepository speziKopfRepository, SpeziTextartRepository speziTextartRepository, SpeziViewRepository speziViewRepository, UserRepository userRepository, LoginRepository loginRepository, SpeziSaRepository speziSaRepository, SpeziSpcdRepository speziSpcdRepository, Microservice microservice, SpeziMemoRepository speziMemoRepository, SpeziPdfRepository speziPdfRepository, DocuRepository docuRepository, RestApiRepository restApiRepository) {
         this.speziDetailRepository = speziDetailRepository;
         this.speziKopfRepository = speziKopfRepository;
         this.speziTextartRepository = speziTextartRepository;
@@ -38,6 +48,7 @@ public class DBService {
         this.speziMemoRepository = speziMemoRepository;
         this.speziPdfRepository = speziPdfRepository;
         this.docuRepository = docuRepository;
+        this.restApiRepository = restApiRepository;
     }
 
     //user
@@ -267,16 +278,17 @@ public class DBService {
     }
 
     //speti text
-    public int checkIfKeyExistirt(Integer mand, String textart, String spcd, String key){
+    public int checkIfKeyExistirt(Integer mand, String textart, String spcd, String key) {
         return speziTexteRepository.checkIfKeyExistirt(mand, textart, spcd, key);
-    }
-    //spezi pdf
-    public List<SpeziPdf> selecAllPdf(){
-        return  speziPdfRepository.findAll();
     }
 
     //spezi pdf
-    public List<SpeziPdf> searchByIcon(String logo){
+    public List<SpeziPdf> selecAllPdf() {
+        return speziPdfRepository.findAll();
+    }
+
+    //spezi pdf
+    public List<SpeziPdf> searchByIcon(String logo) {
         return speziPdfRepository.searchByIcon(logo);
     }
 
@@ -286,7 +298,44 @@ public class DBService {
     }
 
     //select docu
-    public String selectAllDocu(){
+    public String selectAllDocu() {
         return docuRepository.selectDocuById().toString();
+    }
+
+    //select all restapi
+    public List<RestApiModel> selectAllRestApi() {
+        return restApiRepository.findAll();
+    }
+
+    // Add new restApi and return the saved entity with generated ID
+    public RestApiModel addNewRestApi(RestApiModel restApi) {
+        return restApiRepository.save(restApi);
+    }
+
+    // update restapi
+    // Metoda za ažuriranje RestApiModel u bazi podataka
+    public void updateRestApi(RestApiModel restApi) {
+        Optional<RestApiModel> existingRestApiOptional = restApiRepository.findById(restApi.getId());
+        if (existingRestApiOptional.isPresent()) {
+            RestApiModel existingRestApi = existingRestApiOptional.get();
+            existingRestApi.setMischung(restApi.getMischung());
+            existingRestApi.setZut1(restApi.getZut1());
+            existingRestApi.setZut2(restApi.getZut2());
+            existingRestApi.setZut3(restApi.getZut3());
+            restApiRepository.save(existingRestApi);
+        } else {
+            // Handle error: entity not found
+            throw new RuntimeException("RestApi with ID " + restApi.getId() + " not found");
+        }
+    }
+
+    //delete rastapt
+    public void deleteRastApiByID(long id) {
+        restApiRepository.deleteById(id);
+    }
+
+    //truncate rest ati
+    public void truncateRestApi() {
+        restApiRepository.truncateRestApi();
     }
 }

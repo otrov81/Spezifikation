@@ -1,27 +1,27 @@
 
 
-java:S1192@"SDefine a constant instead of duplicating this literal "align center, wrap" 3 times.(¾ƒ›£J$69cac780-d8bf-422f-88d1-01237c12822c
+java:S1192@"SDefine a constant instead of duplicating this literal "align center, wrap" 3 times.(¾ƒ›£J$26b92d54-1def-4aaf-90ef-cc20f316ef46
 
-java:S1192?"MDefine a constant instead of duplicating this literal "align center" 3 times.(ğİ¦„úÿÿÿÿJ$97ae4c05-4a74-4331-939f-d41b0655194d
+java:S1192?"MDefine a constant instead of duplicating this literal "align center" 3 times.(ğİ¦„úÿÿÿÿJ$d1d2f4e1-efa0-40d4-baad-eff919835e93
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÔÒƒİî1J$80e56718-9707-46b9-abe3-e9fd6508a7a7
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÔÒƒİî1J$e6330508-0710-4563-a341-6b0ac5444b6a
 f
-java:S2440"#Remove this instantiation of "MD5".(»¸‡Ê8ßÒƒİî1J$87a6227e-436c-4704-ab63-ff2ac35a22c1
+java:S2440"#Remove this instantiation of "MD5".(»¸‡Ê8ßÒƒİî1J$2bff9ef3-9e56-4141-89ec-d2fc472b3d90
 “
-java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ˆÍ´‰ûÿÿÿÿJ$ca845a2d-df46-4e2f-9f46-75c19dcc3980
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ˆÍ´‰ûÿÿÿÿJ$d1457efc-7727-42ba-95a6-18fcd26817e2
 ~
-java:S26961"6Make the enclosing method "static" or remove this set.(¥ªèÊüÿÿÿÿ8Ûî1J$718afbcb-6fb7-413e-a96e-b854869f6051
+java:S26961"6Make the enclosing method "static" or remove this set.(¥ªèÊüÿÿÿÿ8Ûî1J$e395111a-67ce-4260-bb2d-50e5598b7902
 y
-java:S26962"6Make the enclosing method "static" or remove this set.(ˆË¬Š8Ûî1J$26b8acff-7b56-4c65-a991-70f84f98f078
+java:S26962"6Make the enclosing method "static" or remove this set.(ˆË¬Š8Ûî1J$7297f184-4fe6-4436-bb23-33a5fad646a0
 ~
-java:S26964"6Make the enclosing method "static" or remove this set.(®¼¸ˆıÿÿÿÿ8‘Ûî1J$35ae1684-f7db-47b3-a153-e82ce8d6c875
+java:S26964"6Make the enclosing method "static" or remove this set.(®¼¸ˆıÿÿÿÿ8‘Ûî1J$20cdcdb9-d6ae-403c-b160-a7cabc46aa7f
 ~
-java:S26965"6Make the enclosing method "static" or remove this set.(Ø¶‹ëûÿÿÿÿ8’Ûî1J$2e4cc12a-e964-4ffd-9d17-9df9e3124653
+java:S26965"6Make the enclosing method "static" or remove this set.(Ø¶‹ëûÿÿÿÿ8’Ûî1J$88cf3cf6-f94e-44a3-81bf-79a8bbb65806
 y
-java:S26966"6Make the enclosing method "static" or remove this set.(¯Ë´°8”Ûî1J$d8345a71-273c-4c80-ab96-55c970cf96d0
-|	java:S125<"<This block of commented-out lines of code should be removed.(£É¾ÂÿÿÿÿÿJ$6a6804b5-460e-4dad-b238-bcbfec3587ac
+java:S26966"6Make the enclosing method "static" or remove this set.(¯Ë´°8”Ûî1J$9b05ab07-6877-4a80-9eb7-8ebe12f74b2c
+|	java:S125<"<This block of commented-out lines of code should be removed.(£É¾ÂÿÿÿÿÿJ$2e6b15a6-0f1f-4579-9df8-8ffb5b2e254f
 }
-java:S2209S"5Change this instance-reference to a static reference.(¨â§ßùÿÿÿÿ8„Óƒİî1J$3e6afa30-e4a3-4474-878b-d4d68349bac6
+java:S2209S"5Change this instance-reference to a static reference.(¨â§ßùÿÿÿÿ8„Óƒİî1J$810c661e-84f1-478e-bbad-45862a072718
 x
-java:S2209{"5Change this instance-reference to a static reference.(ğüî›8–Óƒİî1J$38c1351e-28ab-4d9e-b69c-6d7d3c55add2
-„	java:S125"<This block of commented-out lines of code should be removed.(€à¸‰øÿÿÿÿ8Š¤Àëï1J$54dfbac9-f4e9-4bd1-82f8-24d17878b4d1
+java:S2209{"5Change this instance-reference to a static reference.(ğüî›8–Óƒİî1J$ec619346-ea54-469f-bb16-8be578e0996f
+„	java:S125"<This block of commented-out lines of code should be removed.(€à¸‰øÿÿÿÿ8Š¤Àëï1J$d6f300d9-3d7a-4333-b717-0666e5a8bc27

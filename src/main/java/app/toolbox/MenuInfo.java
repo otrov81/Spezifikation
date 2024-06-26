@@ -255,7 +255,7 @@ public class MenuInfo {
         dialog.add(editorPane, "align center");
 
         // Kreiranje oznake za verziju programa
-        JLabel versionLabel = new JLabel("Version: 1.00.3");
+        JLabel versionLabel = new JLabel("Version: 1.7.2");
         dialog.add(versionLabel, "align right, gaptop 20"); // Pomeranje u desni gornji ugao s razmakom
 
         // Kreiranje dugmeta "OK"
